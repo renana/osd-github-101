@@ -8,6 +8,9 @@ Make sure the people in charge of your career knows the path you wish to take.
 
 Make a plan with your manger and your sponsor of the goals you need to reach for you to advance in each step.
 
+### Tip #3
+Testing
+
 # Add your own tip to the list or constribute a visual change
 
 - Add here tips about career clarity
