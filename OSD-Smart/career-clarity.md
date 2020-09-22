@@ -11,6 +11,9 @@ Make a plan with your manger and your sponsor of the goals you need to reach for
 ### Tip #3
 Testing
 
+### Tip #4
+Testing Again
+
 # Add your own tip to the list or constribute a visual change
 
 - Add here tips about career clarity
