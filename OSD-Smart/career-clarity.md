@@ -14,6 +14,9 @@ Testing
 ### Tip #4
 Testing Again
 
+### Tip #5
+Have conversations with your mentor
+
 # Add your own tip to the list or constribute a visual change
 
 - Add here tips about career clarity
