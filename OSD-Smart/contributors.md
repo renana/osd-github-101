@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1. Emelie
 1. Lisa Isaeva
 1. Shweta M
 1. Keerthi
