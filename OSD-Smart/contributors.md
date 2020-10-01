@@ -1,9 +1,9 @@
 
 ## Add your name as a Contributor below
 
+1. Summan Mirza
 1. Shannon Lu
 1. Taylor
-2. Arpita
 1. Kastur Koul
 1. Sarah Williamson
 1. Sarah Adair
