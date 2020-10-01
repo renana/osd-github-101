@@ -10,6 +10,7 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Be curious
 6. Be vocal!
 6. Do not be afraid to ask questions, especially during internships
 6. Don't be afraid of things that are hard!
