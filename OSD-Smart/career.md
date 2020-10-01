@@ -6,6 +6,8 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Be open to feedback
+7. Be confident in yourself 
 
 ## Add your own tip to the list or constribute a visual change
 
