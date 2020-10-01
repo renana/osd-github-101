@@ -2,6 +2,7 @@
 
 ## Add your name as a Contributor below
 
+1. Nikki Conley
 1. Musfera Khan
 1. Teresa Hubscher-Younger
 1. swetha
