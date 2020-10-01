@@ -9,4 +9,5 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Don't be afraid of things that are hard!
 
