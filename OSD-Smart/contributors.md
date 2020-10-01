@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1. Jenna Whilden (Runchimchar)
 1. Emily Taylor
 1. mahita 
 1. Andalla
