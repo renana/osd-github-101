@@ -3,6 +3,7 @@
 1. Make sure the people in charge of your career knows the path you wish to take.
 2. Make a plan with your manger and your sponsor of the goals you need to reach for you to advance in each step.
 3. Have conversations with your mentor
+4. Set SMART goals - Specific, Measurable, Assignable, Realistic, Time-related
 
 ## Add your own tip to the list or constribute a visual change
 
