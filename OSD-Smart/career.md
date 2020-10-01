@@ -6,4 +6,6 @@
 
 ## Add your own tip to the list or constribute a visual change
 
-- Be clear on your goals
+- Add here tips and best practices about career
+- Create new .md file for a new subject you would like to contribute
+- Copy this section to that new file
