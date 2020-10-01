@@ -1,3 +1,5 @@
+Hey! I am learning github
+
 ## Career tips and best practices
 
 1. Make sure the people in charge of your career knows the path you wish to take.
@@ -9,3 +11,6 @@
 - Add here tips and best practices about career
 - Create new .md file for a new subject you would like to contribute
 - Copy this section to that new file
+
+
+Hey! I am learning github
