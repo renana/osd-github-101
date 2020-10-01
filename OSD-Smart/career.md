@@ -5,6 +5,7 @@
 
 1. Make sure the people in charge of your career knows the path you wish to take.
 1. Be a mentor
+1. Collaborate often with team members
 1. Find your sponsor and allies
 2. Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
 3. Have conversations with your mentor
