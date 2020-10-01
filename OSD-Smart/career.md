@@ -10,3 +10,6 @@
 4. Get feedback from people you worked with
 5. Be open-minded
 
+7.Life long learning : always be curious 
+
+
