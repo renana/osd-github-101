@@ -1,6 +1,6 @@
+# Add your name as a Contributor below
 
-## Add your name as a Contributor below
-
+1. Mrunal Bandodkar 
 1. Corinne Battle
 1. Isabella Ortiz
 1. Winny Hu 
