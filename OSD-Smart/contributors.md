@@ -2,6 +2,7 @@
 
 ## Add your name as a Contributor below
 
+1. Brianna Gilchrist
 1. Chang Liu, University of Washington 
 1. Stephanie Eldridge
 1. Bhanu Preeti Anand
