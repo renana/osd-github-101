@@ -10,6 +10,7 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
 6. Be curious
 6. Be vocal!
 6. Do not be afraid to ask questions, especially during internships
