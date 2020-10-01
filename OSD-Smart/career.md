@@ -10,6 +10,7 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Start creating promotion document and align it with your goals.
 6. Ask dumb questions.
 6. Ask questions.
 6. Always try out stuff by implementing
