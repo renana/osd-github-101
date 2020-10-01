@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1. Minati Alphonso
 1. Naga Janaki Dwadasi
 1. Xiaoran
 1. Jenna Whilden (Runchimchar)
