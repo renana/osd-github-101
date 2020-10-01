@@ -2,6 +2,7 @@
 
 ## Add your name as a Contributor below
 
+1. Stephanie Eldridge
 1. Bhanu Preeti Anand
 1.Gunjan Gupta 
 1.Gorisha Agarwal 
