@@ -10,6 +10,7 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Ask questions.
 6. Always try out stuff by implementing
 6. Respect and value diversity
 7. Live, Love, Laugh and keep Learning
