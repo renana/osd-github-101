@@ -79,9 +79,5 @@ Portions of text derived from the [Django Code of Conduct](https://www.djangopro
 
 Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
 
-## 11 This is a test
-Hello! nice. this is a test :)
-
-## 12 This a test.
 
  
