@@ -7,7 +7,9 @@
 ## Add your own tip to the list or constribute a visual change
 
 - Add here tips and best practices about career
+Practice Leetcode
 - Create new .md file for a new subject you would like to contribute
+career_101.md
 - Copy this section to that new file
 
 
