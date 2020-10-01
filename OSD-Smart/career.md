@@ -5,6 +5,7 @@
 3. Have conversations with your mentor
 4. Get feedback from people you worked with
 5. Be open-minded
+6. Try new things
 
 ## Add your own tip to the list or constribute a visual change
 
