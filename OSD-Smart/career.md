@@ -10,3 +10,7 @@
 4. Get feedback from people you worked with
 5. Be open-minded
 6. Build good raport with your teammates.
+7.Life long learning : always be curious 
+6. Try new things
+6. Be open to feedback
+7. Be confident in yourself 
