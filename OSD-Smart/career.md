@@ -16,3 +16,5 @@ career_101.md
 ## Uma Changes Begin
  - Uma Change
  ## Uma Changes End
+
+Tip: Learn to code :)
