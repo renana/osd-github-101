@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1. Shannon Lu
 1. Taylor
 2. Arpita
 1. Kastur Koul
