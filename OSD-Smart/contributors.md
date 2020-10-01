@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1. Winny Hu 
 1. Alex Nazareno
 1. Heghine
 1. Minati Alphonso
