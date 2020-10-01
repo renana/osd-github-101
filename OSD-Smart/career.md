@@ -6,6 +6,5 @@
 
 ## Add your own tip to the list or constribute a visual change
 
-- Add here tips and best practices about career
-- Create new .md file for a new subject you would like to contribute
-- Copy this section to that new file
+- Speak up and ensure that your voice is being heard
+- Don't be afraid to ask for help
