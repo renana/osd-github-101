@@ -6,6 +6,5 @@
 
 ## Add your own tip to the list or constribute a visual change
 
-- Add here tips and best practices about career
-- Create new .md file for a new subject you would like to contribute
-- Copy this section to that new file
+1. Get feedback from time to time
+1. Understand what is the gap between your current level and the next level
