@@ -1,3 +1,4 @@
+
 ## Career tips and best practices
 
 ## Add your own tip to the list or constribute a visual change
@@ -15,3 +16,6 @@
 6. Try new things
 6. Be open to feedback
 7. Be confident in yourself 
+
+Contributor:
+1. Frehiwot Getnet
