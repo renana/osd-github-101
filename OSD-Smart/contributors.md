@@ -1,6 +1,7 @@
 
 ## Add your name as a Contributor below
 
+1.Kirsty B 
 1. MyName
 1. Parinaz Barakhshan
 1. Roxy Williams
