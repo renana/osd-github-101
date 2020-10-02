@@ -52,6 +52,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Kelly Fernandez
 Yifan Zhang
 Ning Dong
 Shahana
