@@ -78,4 +78,3 @@
 Keep adding more to the list!
 
 ## Add your favorite support resources for learning and best practices
-
