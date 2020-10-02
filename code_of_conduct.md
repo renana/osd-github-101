@@ -1,4 +1,4 @@
-# OSD 2020 Code of Conduct 
+﻿# OSD 2020 Code of Conduct 
 
 ## 1. Purpose
 
@@ -78,5 +78,6 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
+
 
  
