@@ -1,4 +1,3 @@
-
 ## Career tips and best practices
 
 ## Add your own tip to the list or constribute a visual change
