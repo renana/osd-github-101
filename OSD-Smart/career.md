@@ -3,6 +3,7 @@
 ## Add your own tip to the list or constribute a visual change
 
 - Always bring peanut butter to work to share with your coworkers
+- Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
 - Ask questions.
