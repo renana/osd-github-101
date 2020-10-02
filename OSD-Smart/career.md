@@ -1,3 +1,4 @@
+
 ## Career tips and best practices
 
 ## Add your own tip to the list or constribute a visual change
@@ -26,6 +27,7 @@
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
 - Don't be afraid of things that are hard!
+- Don't be afraid to ask for help
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
@@ -51,6 +53,7 @@
 - Set SMART goals - Specific, Measurable, Assignable, Realistic, Time-related
 - Share knowledge with those around you
 - Some people will do better than you, and some will do worse. Does not help to focus on either. Focus on your own path
+- Speak up and ensure that your voice is being heard
 - Stand up for your values
 - Start creating promotion document and align it with your goals.
 - The 'impossible' is possible!
