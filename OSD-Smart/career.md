@@ -50,6 +50,7 @@
 - Networking is very important.
 - Post and share on social media using GraceHopperOSD
 - Practice Leetcode
+- Prepare for performance reviews by writing private notes for a term paper on why you are awesome at work.  Ignore any voice in your head telling you to be humble; this is not the time.
 - Regularly check in with mentors and sponsors to get constructive feedback
 - Respect and value diversity
 - Set SMART goals - Specific, Measurable, Assignable, Realistic, Time-related
@@ -70,4 +71,3 @@
 
 Keep adding more to the list!
 
-Hey! I am learning github
