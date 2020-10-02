@@ -54,6 +54,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Emily O'Connell
 Sandra Jo
 Kayla Foremksi
 Yang
