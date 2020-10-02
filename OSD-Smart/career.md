@@ -29,6 +29,7 @@
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Find your sponsor and allies
+- Follow-through on your plan.
 - Get feedback from people you worked with
 - Have conversations with your mentor
 - If you dont trust your management to do right by you, get out of that team
