@@ -30,6 +30,7 @@
 - Jenna Whilden (Runchimchar)
 - Kastur Koul
 - Kayla Foremksi
+- Katherine Brooks
 - Keerthi
 - Kelly Fernandez
 - Kiana
