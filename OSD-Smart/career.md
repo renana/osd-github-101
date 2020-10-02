@@ -38,10 +38,11 @@
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Figure out what you want to do
 - Find a sponsor
+- Find something that interests you that you don't know yet that will benefit your team.
 - Find your sponsor and allies
 - Follow-through on your plan.
 - Get feedback from people you worked with
-= Get feedback from time to time
+- Get feedback from time to time
 - Have conversations with your mentor
 - If you dont trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
