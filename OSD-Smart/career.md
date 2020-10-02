@@ -37,6 +37,7 @@
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Know what you want to do
+- Learn to work with Github
 - Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
