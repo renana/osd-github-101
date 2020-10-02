@@ -10,6 +10,7 @@ l. Have conversation
  Attend sessions like VGHC
  Set SMART goals - Specific, Measurable, Assignable, Realistic, Time-related
  Be a mentor
+ Network
  Be specific when asking for help from your mentor.
  Collaborate often with team members
  Find your sponsor and allies
