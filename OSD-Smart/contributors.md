@@ -35,6 +35,7 @@
 - Kirsty B 
 - Lisa Isaeva
 - Luísa Souza Moura
+- MJ
 - Michelle
 - Minati Alphonso
 - Mrunal Bandodkar 
@@ -47,7 +48,6 @@
 - Ning Dong
 - Parinaz Barakhshan
 - Pranjali
-- Roxy Williams
 - Roxy Williams
 - Sandra Jo
 - Sanjna
