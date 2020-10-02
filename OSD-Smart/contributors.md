@@ -52,6 +52,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Sandra Jo
 Kayla Foremksi
 Yang
 Alexis Thompson
