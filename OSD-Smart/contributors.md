@@ -35,6 +35,7 @@
 - Kirsty B 
 - Lisa Isaeva
 - Luísa Souza Moura
+- Madi Fishtrom
 - MJ
 - Michelle
 - Minati Alphonso

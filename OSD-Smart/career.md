@@ -16,6 +16,7 @@
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
+- Be patient and optimistic!
 - Be open to feedback
 - Be open-minded
 - Be specific when asking for help from your mentor.
@@ -81,7 +82,5 @@
 - Work hard
 - Work Smart
 - Work towards your goal
-
-Keep adding more to the list!
 
 ## Add your favorite support resources for learning and best practices
