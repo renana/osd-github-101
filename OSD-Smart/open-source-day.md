@@ -7,6 +7,7 @@
 1. Enjoy the experience!!
 1. Make sure you participate in the day :)
 1. Check out the OSD Social Wall here: https://osdsocialwall.com/
+1. Talk and connect with people!
 
 ## Add your own tip to the list or constribute a visual change
 
