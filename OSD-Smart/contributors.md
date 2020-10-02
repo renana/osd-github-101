@@ -52,6 +52,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Yang
 Alexis Thompson
 Kelly Fernandez
 Yifan Zhang
