@@ -75,6 +75,7 @@
 - Start creating promotion document and align it with your goals.
 - Thanks for this wonderful workshop 
 - The 'impossible' is possible!
+- The best is yet to come
 - Track your progress and evaluate periodicallly
 - Trust your abilities! You are smart.
 - Try new things
