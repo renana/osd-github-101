@@ -2,79 +2,79 @@
 
 ## Add your name as a Contributor below
 
-Kiana
-Geetika Katragadda
-Roxy Williams
-Nikki Conley
-Musfera Khan
-Teresa Hubscher-Younger
-swetha
-Neha
-Cara Wong
-srashta
-Brianna Gilchrist
-Chang Liu, University of Washington 
-Stephanie Eldridge
-Bhanu Preeti Anand
-Gunjan Gupta 
-Gorisha Agarwal 
-Luísa Souza Moura
-Susan Thank you for presentation
-Mrunal Bandodkar 
-Corinne Battle
-Isabella Ortiz
-Winny Hu 
-Alex Nazareno
-Heghine
-Minati Alphonso
-Naga Janaki Dwadasi
-Xiaoran
-Jenna Whilden (Runchimchar)
-Emily Taylor
-mahita 
-Andalla
-Yucheng
-Summan Mirza
-Shannon Lu
-Taylor
-Kastur Koul
-Sarah Williamson
-Sarah Adair
-Kirsty B 
-MyName
-Parinaz Barakhshan
-Roxy Williams
-Sayali Naval (https://github.com/sayalinaval) 
-Emelie
-Lisa Isaeva
-Shweta M
-Sharmy-r
-Keerthi
-Anna
-Arpita
-Sarah
-Michelle
-leticia velazquez
-Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
-Srishti
-Emily O'Connell
-Sandra Jo
-Kayla Foremksi
-Yang
-Alexis Thompson
-Kelly Fernandez
-Yifan Zhang
-Ning Dong
-Shahana
-Trang
-Veena
-Ava
-Sridevi Jantli
-Pranjali
-Nine
-Divya Muruganantham
-Aarti Bajaj
-Amy H
-Dhivya
-Sanjna
-Sheila Pinto
+- Aarti Bajaj
+- Alex Nazareno
+- Alexis Thompson
+- Amy H
+- Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
+- Andalla
+- Anna
+- Arpita
+- Ava
+- Bhanu Preeti Anand
+- Brianna Gilchrist
+- Cara Wong
+- Chang Liu, University of Washington 
+- Corinne Battle
+- Dhivya
+- Divya Muruganantham
+- Emelie
+- Emily O'Connell
+- Emily Taylor
+- Geetika Katragadda
+- Gorisha Agarwal 
+- Gunjan Gupta 
+- Heghine
+- Isabella Ortiz
+- Jenna Whilden (Runchimchar)
+- Kastur Koul
+- Kayla Foremksi
+- Keerthi
+- Kelly Fernandez
+- Kiana
+- Kirsty B 
+- Lisa Isaeva
+- Luísa Souza Moura
+- Michelle
+- Minati Alphonso
+- Mrunal Bandodkar 
+- Musfera Khan
+- MyName
+- Naga Janaki Dwadasi
+- Neha
+- Nikki Conley
+- Nine
+- Ning Dong
+- Parinaz Barakhshan
+- Pranjali
+- Roxy Williams
+- Roxy Williams
+- Sandra Jo
+- Sanjna
+- Sarah
+- Sarah Adair
+- Sarah Williamson
+- Sayali Naval (https://github.com/sayalinaval) 
+- Shahana
+- Shannon Lu
+- Sharmy-r
+- Sheila Pinto
+- Shweta M
+- Sridevi Jantli
+- Srishti
+- Stephanie Eldridge
+- Summan Mirza
+- Susan Thank you for presentation
+- Taylor
+- Teresa Hubscher-Younger
+- Trang
+- Veena
+- Winny Hu 
+- Xiaoran
+- Yang
+- Yifan Zhang
+- Yucheng
+- leticia velazquez
+- mahita 
+- srashta
+- swetha
