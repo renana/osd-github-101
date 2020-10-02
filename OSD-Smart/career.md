@@ -13,12 +13,13 @@
 - Bad planning on your part does not constitute an emergency on my part.
 - Be a mentor
 - Be confident
+- Be confident in yourself 
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
-- Be patient and optimistic!
 - Be open to feedback
 - Be open-minded
+- Be patient and optimistic!
 - Be specific when asking for help from your mentor.
 - Be vocal!
 - Believe in yourself
@@ -71,16 +72,17 @@
 - Some people will do better than you, and some will do worse. Does not help to focus on either. Focus on your own path
 - Speak up and ensure that your voice is being heard
 - Stand up for your values
-- Track your progress and evaluate periodicallly
 - Start creating promotion document and align it with your goals.
+- Thanks for this wonderful workshop 
 - The 'impossible' is possible!
+- Track your progress and evaluate periodicallly
 - Trust your abilities! You are smart.
 - Try new things
 - Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
 - Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practices. It has good resource.
-- Work hard
 - Work Smart
+- Work hard
 - Work towards your goal
 
 ## Add your favorite support resources for learning and best practices
