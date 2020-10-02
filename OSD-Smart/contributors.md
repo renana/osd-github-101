@@ -52,6 +52,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Trang
 Veena
 Ava
 Sridevi Jantli
