@@ -40,6 +40,7 @@
 - Find your sponsor and allies
 - Follow-through on your plan.
 - Get feedback from people you worked with
+= Get feedback from time to time
 - Have conversations with your mentor
 - If you dont trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
@@ -72,6 +73,7 @@
 - Trust your abilities! You are smart.
 - Try new things
 - Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+- Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practices. It has good resource.
 - Work hard
 - Work Smart
