@@ -17,6 +17,7 @@
 - Chang Liu, University of Washington 
 - Clovy Meng
 - Corinne Battle
+- Delaney!
 - Dhivya
 - Divya Muruganantham
 - Emelie
@@ -29,16 +30,16 @@
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Kastur Koul
-- Kayla Foremksi
 - Katherine Brooks
+- Kayla Foremksi
 - Keerthi
 - Kelly Fernandez
 - Kiana
 - Kirsty B 
 - Lisa Isaeva
 - Luísa Souza Moura
-- Madi Fishtrom
 - MJ
+- Madi Fishtrom
 - Michelle
 - Minati Alphonso
 - Monami
