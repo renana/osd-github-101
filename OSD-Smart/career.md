@@ -58,6 +58,7 @@
 - Try new things
 - Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
 - Use Udemy or codeacademy for git practices. It has good resource.
+- Work hard
 - Work Smart
 
 Adding update to this file by Farida Oonwala
