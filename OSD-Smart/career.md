@@ -30,9 +30,13 @@ Life long learning : always be curious
 Try new things
 Be open to feedback
 Be confident in yourself
+<<<<<<< HEAD
 Connect with your peers
 The 'impossible' is possible!
 
 =======
+=======
+Don't be afraid to take up new challenges and enjoy yourself in the process
+>>>>>>> 79938e155d6935c52bef58eb46ebb41552dd63bb
 Be confident in yourself <-- this is important
 Contribution by Ruchi
