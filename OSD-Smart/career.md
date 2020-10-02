@@ -30,6 +30,7 @@
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
 - Don't be afraid of things that are hard!
+- Don't be afraid to apply
 - Don't be afraid to ask for help
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
