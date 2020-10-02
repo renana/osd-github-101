@@ -29,6 +29,7 @@ Build good raport with your teammates.
 Life long learning : always be curious 
 Try new things
 Be open to feedback
+Be confident in yourself 
+=======
 Be confident in yourself <-- this is important
-
-
+Contribution by Ruchi
