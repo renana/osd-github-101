@@ -1,8 +1,9 @@
-# Add your name as a Contributor below
+﻿# Add your name as a Contributor below
 
 ## Add your name as a Contributor below
 
-
+Kiana
+Geetika Katragadda
 Roxy Williams
 Nikki Conley
 Musfera Khan
@@ -47,12 +48,33 @@ Sayali Naval (https://github.com/sayalinaval)
 Emelie
 Lisa Isaeva
 Shweta M
+Sharmy-r
 Keerthi
 Anna
 Arpita
+Sarah
 Michelle
+leticia velazquez
+Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
+Srishti
+Emily O'Connell
+Sandra Jo
+Kayla Foremksi
+Yang
+Alexis Thompson
+Kelly Fernandez
+Yifan Zhang
+Ning Dong
+Shahana
+Trang
+Veena
+Ava
+Sridevi Jantli
 Pranjali
 Nine
 Divya Muruganantham
 Aarti Bajaj
+Amy H
+Dhivya
+Sanjna
 Sheila Pinto

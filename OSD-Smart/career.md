@@ -2,6 +2,9 @@
 
 ## Add your own tip to the list or constribute a visual change
 
+l. Make sure
+l. Make a plan
+l. Have conversation
 
  Make sure the people in charge of your career knows the path you wish to take.
  Be a mentor
@@ -32,6 +35,11 @@ Be open to feedback
 Be confident in yourself
 Connect with your peers
 The 'impossible' is possible!
+Bad planning on your part does not constitute an emergency on my part.
+Trust your abilities! You are smart.
+Work Smart
+Don't think that you don't belong; you do!
+Believe in yourself
 Don't be afraid to take up new challenges and enjoy yourself in the process
 Be confident in yourself <-- this is important
 Contribution by Ruchi
