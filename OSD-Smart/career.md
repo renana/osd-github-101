@@ -32,6 +32,7 @@
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
+- Find a sponsor
 - Find your sponsor and allies
 - Follow-through on your plan.
 - Get feedback from people you worked with
