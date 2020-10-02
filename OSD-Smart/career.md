@@ -69,3 +69,5 @@
 - Work towards your goal
 
 Keep adding more to the list!
+
+Hey! I am learning github
