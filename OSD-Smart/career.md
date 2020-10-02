@@ -35,6 +35,7 @@
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Know what you want to do
+- Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
