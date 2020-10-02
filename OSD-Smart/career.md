@@ -40,6 +40,7 @@
 - Find your sponsor and allies
 - Follow-through on your plan.
 - Get feedback from people you worked with
+= Get feedback from time to time
 - Have conversations with your mentor
 - If you dont trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
@@ -51,6 +52,7 @@
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
+- Make goals and track them regularly
 - Make sure the people in charge of your career knows the path you wish to take.
 - Making some changes
 - Network with others
@@ -71,6 +73,7 @@
 - Trust your abilities! You are smart.
 - Try new things
 - Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+- Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practices. It has good resource.
 - Work hard
 - Work Smart
@@ -79,3 +82,6 @@
 Keep adding more to the list!
 
 ## Add your favorite support resources for learning and best practices
+
+
+-hiadnksiisdsds
