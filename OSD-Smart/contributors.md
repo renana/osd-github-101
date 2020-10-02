@@ -10,6 +10,7 @@
 - Andalla
 - Anna
 - Arpita
+- Arushi Rawal (https://github.com/arushirawal20 )
 - Ava
 - Bhanu Preeti Anand
 - Brianna Gilchrist
