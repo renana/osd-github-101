@@ -56,6 +56,7 @@
 - Some people will do better than you, and some will do worse. Does not help to focus on either. Focus on your own path
 - Speak up and ensure that your voice is being heard
 - Stand up for your values
+- Track your progress and evaluate periodicallly
 - Start creating promotion document and align it with your goals.
 - The 'impossible' is possible!
 - Trust your abilities! You are smart.
@@ -64,7 +65,6 @@
 - Use Udemy or codeacademy for git practices. It has good resource.
 - Work hard
 - Work Smart
+- Work towards your goal
 
-Adding update to this file by Farida Oonwala
-1. Test Adding more changes!
-1. This is another tip that im adding!
+Keep adding more to the list!
