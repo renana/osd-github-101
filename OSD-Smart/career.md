@@ -54,6 +54,7 @@
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
 - Make goals and track them regularly
 - Make sure the people in charge of your career knows the path you wish to take.
+- Make sure you are not over mentored and under sponsored.
 - Making some changes
 - Network with others
 - Networking is very important.
