@@ -31,3 +31,5 @@ Try new things
 Be open to feedback
 Be confident in yourself
 Don't be afraid to take up new challenges and enjoy yourself in the process
+Be confident in yourself <-- this is important
+Contribution by Ruchi
