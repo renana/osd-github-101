@@ -3,33 +3,32 @@
 ## Add your own tip to the list or constribute a visual change
 
 
-1. Make sure the people in charge of your career knows the path you wish to take.
-1. Be a mentor
-1. Be specific when asking for help from your mentor.
-1. Collaborate often with team members
-1. Find your sponsor and allies
-2. Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
-3. Have conversations with your mentor
-4. Get feedback from people you worked with
-5. Be open-minded
-6. Start creating promotion document and align it with your goals.
-6. Ask dumb questions.
-6. Ask questions.
-6. Always try out stuff by implementing
-6. Respect and value diversity
-7. Live, Love, Laugh and keep Learning
-6. Share knowledge with those around you
-6. Stand up for your values
-6. Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
-6. Be curious
-6. Be vocal!
-6. Do not be afraid to ask questions, especially during internships
-6. Don't be afraid of things that are hard!
-6. Build good raport with your teammates.
-7. Life long learning : always be curious 
-6. Try new things
-6. Be open to feedback
-7. Be confident in yourself 
+ Make sure the people in charge of your career knows the path you wish to take.
+ Be a mentor
+ Be specific when asking for help from your mentor.
+ Collaborate often with team members
+ Find your sponsor and allies
+ Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
+ Have conversations with your mentor
+ Get feedback from people you worked with
+ Be open-minded
+ Start creating promotion document and align it with your goals.
+  Ask dumb questions.
+  Ask questions.
+Always try out stuff by implementing
+Respect and value diversity
+Live, Love, Laugh and keep Learning
+Share knowledge with those around you
+Stand up for your values
+Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+Be curious
+Be vocal!
+Do not be afraid to ask questions, especially during internships
+Don't be afraid of things that are hard!
+Build good raport with your teammates.
+Life long learning : always be curious 
+Try new things
+Be open to feedback
+Be confident in yourself 
 
-Contributor:
-1. Frehiwot Getnet
+
