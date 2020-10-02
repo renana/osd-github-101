@@ -2,6 +2,8 @@
 
 ## Add your name as a Contributor below
 
+
+Roxy Williams
 Nikki Conley
 Musfera Khan
 Teresa Hubscher-Younger
@@ -49,8 +51,11 @@ Keerthi
 Anna
 Arpita
 Michelle
-
+Sridevi Jantli
+Pranjali
 Nine
 Divya Muruganantham
 Aarti Bajaj
 Dhivya
+Sanjna
+Sheila Pinto
