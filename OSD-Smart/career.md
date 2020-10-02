@@ -32,7 +32,9 @@ Build good raport with your teammates.
 Life long learning : always be curious 
 Try new things
 Be open to feedback
-Be confident in yourself 
+Be confident in yourself
+Connect with your peers
+The 'impossible' is possible!
 Bad planning on your part does not constitute an emergency on my part.
 Trust your abilities! You are smart.
 Work Smart
