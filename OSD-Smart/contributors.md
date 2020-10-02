@@ -49,4 +49,3 @@ Keerthi
 Anna
 Arpita
 Michelle
-Kelly Fernandez
