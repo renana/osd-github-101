@@ -51,6 +51,7 @@
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
+- Make goals and track them regularly
 - Make sure the people in charge of your career knows the path you wish to take.
 - Making some changes
 - Network with others
