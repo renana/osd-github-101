@@ -2,6 +2,9 @@
 
 ## Add your own tip to the list or constribute a visual change
 
+l. Make sure
+l. Make a plan
+l. Have conversation
 
  Make sure the people in charge of your career knows the path you wish to take.
  Be a mentor
