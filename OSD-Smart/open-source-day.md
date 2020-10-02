@@ -10,6 +10,8 @@
 1. make sure to ask questions!
 1. Talk and connect with people!
 1. Never stop learning
+1. Just do it and put on a smile.
+1. Pair up with a buddy.
 
 ## Add your own tip to the list or constribute a visual change
 
