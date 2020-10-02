@@ -23,6 +23,7 @@
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
+- Create a strong resume and cover letter
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
 - Don't be afraid of things that are hard!
@@ -45,7 +46,7 @@
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
 - Make sure the people in charge of your career knows the path you wish to take.
 - Making some changes
-- Network
+- Network with others
 - Networking is very important.
 - Post and share on social media using GraceHopperOSD
 - Practice Leetcode
