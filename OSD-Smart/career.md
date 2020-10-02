@@ -13,7 +13,6 @@
 - Bad planning on your part does not constitute an emergency on my part.
 - Be a mentor
 - Be confident
-- Be confident in yourself 
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
