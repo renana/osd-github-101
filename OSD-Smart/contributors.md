@@ -2,6 +2,8 @@
 
 ## Add your name as a Contributor below
 
+
+Roxy Williams
 Nikki Conley
 Musfera Khan
 Teresa Hubscher-Younger
@@ -48,5 +50,17 @@ Shweta M
 Keerthi
 Anna
 Arpita
+Sarah
 Michelle
 Shahana
+Trang
+Veena
+Ava
+Sridevi Jantli
+Pranjali
+Nine
+Divya Muruganantham
+Aarti Bajaj
+Dhivya
+Sanjna
+Sheila Pinto
