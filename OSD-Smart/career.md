@@ -33,6 +33,7 @@ Life long learning : always be curious
 Try new things
 Be open to feedback
 Be confident in yourself 
+Trust your abilities! You are smart.
 Work Smart
 Don't think that you don't belong; you do!
 Believe in yourself
