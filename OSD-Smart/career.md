@@ -7,6 +7,7 @@ l. Make a plan
 l. Have conversation
 
  Make sure the people in charge of your career knows the path you wish to take.
+ Attend sessions like VGHC
  Set SMART goals - Specific, Measurable, Assignable, Realistic, Time-related
  Be a mentor
  Be specific when asking for help from your mentor.
