@@ -15,6 +15,7 @@
 - Brianna Gilchrist
 - Cara Wong
 - Chang Liu, University of Washington 
+- Clovy Meng
 - Corinne Battle
 - Dhivya
 - Divya Muruganantham
