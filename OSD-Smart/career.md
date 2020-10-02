@@ -7,6 +7,7 @@
 - Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
+- Ask for guidance and help from mentors, sponsors to get there 
 - Ask questions.
 - Attend sessions like VGHC
 - Bad planning on your part does not constitute an emergency on my part.
@@ -33,6 +34,7 @@
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
+- Figure out what you want to do
 - Find a sponsor
 - Find your sponsor and allies
 - Follow-through on your plan.
@@ -41,6 +43,7 @@
 - If you dont trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
+- Keep moving, don't stop
 - Know what you want to do
 - Learn to work with Github
 - Learning git
@@ -76,6 +79,3 @@ Keep adding more to the list!
 
 ## Add your favorite support resources for learning and best practices
 
-
-
-- Not sure what to add!
