@@ -53,6 +53,7 @@ Anna
 Arpita
 Sarah
 Michelle
+Yifan Zhang
 Ning Dong
 Shahana
 Trang
