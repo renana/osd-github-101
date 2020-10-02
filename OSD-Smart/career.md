@@ -19,6 +19,7 @@
 - Be vocal!
 - Believe in yourself
 - Build good raport with your teammates.
+- Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
@@ -29,12 +30,14 @@
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Find your sponsor and allies
+- Follow-through on your plan.
 - Get feedback from people you worked with
 - Have conversations with your mentor
 - If you dont trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Know what you want to do
+- Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
@@ -55,3 +58,5 @@
 - Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
 - Use Udemy or codeacademy for git practices. It has good resource.
 - Work Smart
+
+Adding update to this file by Farida Oonwala
