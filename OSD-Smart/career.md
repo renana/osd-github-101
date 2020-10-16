@@ -38,6 +38,7 @@
 - Don't think that you don't belong; you do!
 - Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Figure out what you want to do
+- Find a mentor
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
 - Find your sponsor and allies
@@ -72,6 +73,7 @@
 - Speak up and ensure that your voice is being heard
 - Stand up for your values
 - Start creating promotion document and align it with your goals.
+- Stay curious and keep learning
 - Thanks for this wonderful workshop 
 - The 'impossible' is possible!
 - The best is yet to come
