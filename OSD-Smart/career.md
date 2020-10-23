@@ -16,6 +16,7 @@
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
+- Be enthusiastic!
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
@@ -50,7 +51,7 @@
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
 - Know what you want to do
-- Learn to work with Github
+- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/master/GitHub-101.pdf)
 - Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
