@@ -12,6 +12,7 @@
 - Arpita
 - Arushi Rawal (https://github.com/arushirawal20 )
 - Ava
+- Becky
 - Bhanu Preeti Anand
 - Brianna Gilchrist
 - Cara Wong
