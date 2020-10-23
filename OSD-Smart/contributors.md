@@ -1,52 +1,90 @@
-# Add your name as a Contributor below
+﻿# Add your name as a Contributor below
 
 ## Add your name as a Contributor below
 
-Nikki Conley
-Musfera Khan
-Teresa Hubscher-Younger
-swetha
-Neha
-Cara Wong
-srashta
-Brianna Gilchrist
-Chang Liu, University of Washington 
-Stephanie Eldridge
-Bhanu Preeti Anand
-Gunjan Gupta 
-Gorisha Agarwal 
-Luísa Souza Moura
-Susan Thank you for presentation
-Mrunal Bandodkar 
-Corinne Battle
-Isabella Ortiz
-Winny Hu 
-Alex Nazareno
-Heghine
-Minati Alphonso
-Naga Janaki Dwadasi
-Xiaoran
-Jenna Whilden (Runchimchar)
-Emily Taylor
-mahita 
-Andalla
-Yucheng
-Summan Mirza
-Shannon Lu
-Taylor
-Kastur Koul
-Sarah Williamson
-Sarah Adair
-Kirsty B 
-MyName
-Parinaz Barakhshan
-Roxy Williams
-Sayali Naval (https://github.com/sayalinaval) 
-Emelie
-Lisa Isaeva
-Shweta M
-Keerthi
-Anna
-Arpita
-Michelle
-Becky
+- Aarti Bajaj
+- Alex Nazareno
+- Alexis Thompson
+- Amy H
+- Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
+- Andalla
+- Anna
+- Arpita
+- Arushi Rawal (https://github.com/arushirawal20 )
+- Ava
+- Becky
+- Bhanu Preeti Anand
+- Brianna Gilchrist
+- Cara Wong
+- Chang Liu, University of Washington 
+- Clovy Meng
+- Corinne Battle
+- Delaney!
+- Dhivya
+- Divya Muruganantham
+- Emelie
+- Emily O'Connell
+- Emily Taylor
+- Geetika Katragadda
+- Gorisha Agarwal 
+- Gunjan Gupta 
+- Heghine
+- Isabella Ortiz
+- Jenna Whilden (Runchimchar)
+- Kastur Koul
+- Katherine Brooks
+- Kayla Foremksi
+- Keerthi
+- Kelly Fernandez
+- Kiana
+- Kirsty B 
+- Lisa Isaeva
+- Luísa Souza Moura
+- MJ
+- Madi Fishtrom
+- Michelle
+- Minati Alphonso
+- Monami
+- Mrunal Bandodkar 
+- Musfera Khan
+- MyName
+- Naga Janaki Dwadasi
+- Nas H
+- Neha
+- Nikki Conley
+- Nine
+- Ning Dong
+- Parinaz Barakhshan
+- Pranjali
+- Roxy Williams
+- Sandra Jo
+- Sanjna
+- Sarah
+- Sarah Adair
+- Sarah Williamson
+- Sayali Naval (https://github.com/sayalinaval) 
+- Shahana
+- Shannon Lu
+- Sharmy-r
+- Sheila Pinto
+- Shweta M
+- Sridevi Jantli
+- Srishti
+- Stephanie Eldridge
+- Summan Mirza
+- Susan Thank you for presentation
+- Sweta
+- Taylor
+- Teresa Hubscher-Younger
+- Trang
+- Veena
+- Winny Hu 
+- Xiaoran
+- Yang
+- Yifan Zhang
+- Yucheng
+- jingxu016
+- leticia velazquez
+- mahita 
+- srashta
+- swetha
