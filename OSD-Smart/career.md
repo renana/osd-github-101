@@ -53,6 +53,7 @@
 - Know what you want to do
 - Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/master/GitHub-101.pdf)
 - Learning git
+- Learn from your mistakes
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
