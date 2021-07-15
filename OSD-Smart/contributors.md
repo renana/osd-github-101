@@ -1,4 +1,4 @@
-﻿# Add your name as a Contributor below
+# Add your name as a Contributor below
 
 ## Add your name as a Contributor below
 
@@ -50,6 +50,7 @@
 - MyName
 - Naga Janaki Dwadasi
 - Nas H
+- NasmaSim
 - Neha
 - Nikki Conley
 - Nine
