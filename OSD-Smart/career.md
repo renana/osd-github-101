@@ -2,6 +2,7 @@
 
 ## Add your own tip to the list or constribute a visual change
 
+- Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
 - Always listen when told :)
@@ -17,6 +18,7 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
+- Be independant 
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
@@ -51,7 +53,7 @@
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
 - Know what you want to do
-- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/master/GitHub-101.pdf)
+- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
@@ -60,9 +62,10 @@
 - Make sure the people in charge of your career knows the path you wish to take.
 - Make sure you are not over mentored and under sponsored.
 - Making some changes
+- Never be afraid of diving into a new technology.
 - Network with others
 - Networking is very important.
-- Post and share on social media using GraceHopperOSD
+- Post and share on social media using #OpenSourceDay2021
 - Practice Leetcode
 - Prepare for performance reviews by writing private notes for a term paper on why you are awesome at work.  Ignore any voice in your head telling you to be humble; this is not the time.
 - Regularly check in with mentors and sponsors to get constructive feedback
@@ -85,5 +88,8 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Don't let work become your whole life
+- Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
