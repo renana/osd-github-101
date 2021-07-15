@@ -25,7 +25,7 @@
 - Believe in yourself
 - Build good raport with your teammates.
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
-- Clearly ask what you want.
+- Clearly ask for what you want.
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
@@ -79,7 +79,7 @@
 - Track your progress and evaluate periodicallly
 - Trust your abilities! You are smart.
 - Try new things
-- Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+- Try to be kind to everyone you work with even if it's just smiling at someone you pass in the hallway.
 - Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practices. It has good resource.
 - Work Smart
