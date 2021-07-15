@@ -12,3 +12,4 @@
 - Take notes!
 - Talk and connect with people!
 - make sure to ask questions!
+- Be curious and love what you do!
