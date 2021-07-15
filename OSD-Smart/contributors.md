@@ -5,6 +5,7 @@
 - Aarti Bajaj
 - Alex Nazareno
 - Alexis Thompson
+- Alissa Zhang
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
@@ -16,7 +17,7 @@
 - Bhanu Preeti Anand
 - Brianna Gilchrist
 - Cara Wong
-- Chang Liu, University of Washington 
+- Chang Liu, University of Washington
 - Clovy Meng
 - Corinne Battle
 - Delaney!
@@ -26,8 +27,8 @@
 - Emily O'Connell
 - Emily Taylor
 - Geetika Katragadda
-- Gorisha Agarwal 
-- Gunjan Gupta 
+- Gorisha Agarwal
+- Gunjan Gupta
 - Heghine
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
@@ -37,7 +38,7 @@
 - Keerthi
 - Kelly Fernandez
 - Kiana
-- Kirsty B 
+- Kirsty B
 - Lisa Isaeva
 - Luísa Souza Moura
 - MJ
@@ -45,7 +46,7 @@
 - Michelle
 - Minati Alphonso
 - Monami
-- Mrunal Bandodkar 
+- Mrunal Bandodkar
 - Musfera Khan
 - MyName
 - Naga Janaki Dwadasi
@@ -62,7 +63,7 @@
 - Sarah
 - Sarah Adair
 - Sarah Williamson
-- Sayali Naval (https://github.com/sayalinaval) 
+- Sayali Naval (https://github.com/sayalinaval)
 - Shahana
 - Shannon Lu
 - Sharmy-r
@@ -78,13 +79,13 @@
 - Teresa Hubscher-Younger
 - Trang
 - Veena
-- Winny Hu 
+- Winny Hu
 - Xiaoran
 - Yang
 - Yifan Zhang
 - Yucheng
 - jingxu016
 - leticia velazquez
-- mahita 
+- mahita
 - srashta
 - swetha
