@@ -2,6 +2,7 @@
 ##### (Make sure to keep this list sorted)
 
 - Aarti Bajaj
+- Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
 - Amy H
@@ -15,7 +16,7 @@
 - Bhanu Preeti Anand
 - Brianna Gilchrist
 - Cara Wong
-- Chang Liu, University of Washington 
+- Chang Liu, University of Washington
 - Clovy Meng
 - Corinne Battle
 - Delaney!
@@ -25,18 +26,19 @@
 - Emily O'Connell
 - Emily Taylor
 - Geetika Katragadda
-- Gorisha Agarwal 
-- Gunjan Gupta 
+- Gorisha Agarwal
+- Gunjan Gupta
 - Heghine
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
+- Anjana Anil
 - Keerthi
 - Kelly Fernandez
 - Kiana
-- Kirsty B 
+- Kirsty B
 - Lisa Isaeva
 - Luísa Souza Moura
 - MJ
@@ -44,7 +46,7 @@
 - Michelle
 - Minati Alphonso
 - Monami
-- Mrunal Bandodkar 
+- Mrunal Bandodkar
 - Musfera Khan
 - MyName
 - Naga Janaki Dwadasi
@@ -56,35 +58,44 @@
 - Parinaz Barakhshan
 - Pranjali
 - Roxy Williams
+- Ruth Ikegah
 - Sandra Jo
 - Sanjna
 - Sarah
 - Sarah Adair
 - Sarah Williamson
-- Sayali Naval (https://github.com/sayalinaval) 
+- Sayali Naval (https://github.com/sayalinaval)
 - Shahana
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
 - Shweta M
+- Soumya C
 - Sridevi Jantli
 - Srishti
 - Stephanie Eldridge
 - Summan Mirza
 - Susan Thank you for presentation
+- Swastika Gupta
 - Sweta
 - Taylor
 - Teresa Hubscher-Younger
 - Trang
+- Tiffany
 - Veena
-- Winny Hu 
+- Winny Hu
 - Xiaoran
 - Yang
 - Yifan Zhang
 - Yucheng
 - jingxu016
 - leticia velazquez
-- mahita 
+- mahita
 - srashta
 - swetha
 - Kaleah
+- Serena Lin
+- Meri Koenhemsi
+- Sarah Sß
+- Ankit
+- Divyesh Nandlal Vishwakarma
