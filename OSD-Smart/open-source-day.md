@@ -5,13 +5,14 @@
 - Enjoy the experience!!
 - Enjoy the experience and learning!!
 - Join OSD workshops to learn about Open Source and the community
-- Join the contribution tracks to help existing projects and create impact
+- Join the contribution tracks to help existing projects and create an impact
 - Just do it and put on a smile.
 - Make sure you participate in the day :)
 - Never stop learning
-- Pair up with a buddy.
+- Pair up with a buddy
 - Post and share on social media using #OpenSourceDay2021
 - Take notes!
 - Talk and connect with people!
-- make sure to ask questions!
+- Make sure to ask questions!
+- Connect with mentors 
 - Be curious and love what you do!
