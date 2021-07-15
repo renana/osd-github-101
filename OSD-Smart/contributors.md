@@ -88,3 +88,4 @@
 - mahita 
 - srashta
 - swetha
+- Claire (https://github.com/ClaireChiang91/osd-github-101)
