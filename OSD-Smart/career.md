@@ -2,6 +2,7 @@
 
 ## Add your own tip to the list or constribute a visual change
 
+- Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
 - Always listen when told :)
