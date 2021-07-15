@@ -1,14 +1,17 @@
 ## Career tips and best practices
 
-## Add your own tip to the list or constribute a visual change
+## Add your own tip to the list or contribute a visual change
 
+- Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
+- Always keep your resume updated
 - Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
-- Ask for guidance and help from mentors, sponsors to get there 
+- Ask for guidance and help from mentors, sponsors to get there
 - Ask questions.
+- Ask google for any help if needed!
 - Attend sessions like VGHC
 - Bad planning on your part does not constitute an emergency on my part.
 - Be a mentor
@@ -17,15 +20,16 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
+- Be independant 
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
 - Be specific when asking for help from your mentor.
 - Be vocal!
 - Believe in yourself
-- Build good raport with your teammates.
+- Build good rapport with your teammates.
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
-- Clearly ask what you want.
+- Clearly ask for what you want.
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
@@ -33,11 +37,13 @@
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
 - Don't be afraid of things that are hard!
+- Keeping doing what you are doing
 - Don't be afraid to apply
 - Don't be afraid to ask for help
+- Don't be afraid to make mistakes
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
-- Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
+- Don't focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Figure out what you want to do
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
@@ -46,23 +52,25 @@
 - Get feedback from people you worked with
 - Get feedback from time to time
 - Have conversations with your mentor
-- If you dont trust your management to do right by you, get out of that team
+- If you don't trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
 - Know what you want to do
-- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/master/GitHub-101.pdf)
+- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
-- Life long learning : always be curious 
+- Learn from your mistakes
+- Life long learning : always be curious
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
 - Make goals and track them regularly
 - Make sure the people in charge of your career knows the path you wish to take.
 - Make sure you are not over mentored and under sponsored.
 - Making some changes
+- Never be afraid of diving into a new technology.
 - Network with others
 - Networking is very important.
-- Post and share on social media using GraceHopperOSD
+- Post and share on social media using #OpenSourceDay2021
 - Practice Leetcode
 - Prepare for performance reviews by writing private notes for a term paper on why you are awesome at work.  Ignore any voice in your head telling you to be humble; this is not the time.
 - Regularly check in with mentors and sponsors to get constructive feedback
@@ -73,17 +81,27 @@
 - Speak up and ensure that your voice is being heard
 - Stand up for your values
 - Start creating promotion document and align it with your goals.
-- Thanks for this wonderful workshop 
+- Thanks for this wonderful workshop
 - The 'impossible' is possible!
 - The best is yet to come
-- Track your progress and evaluate periodicallly
+- Track your progress and evaluate periodically
 - Trust your abilities! You are smart.
 - Try new things
-- Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+- Try to be kind to everyone you work with even if it's just smiling at someone you pass in the hallway.
 - Understand what is the gap between your current level and the next level
-- Use Udemy or codeacademy for git practices. It has good resource.
-- Work Smart
+- Use Udemy or codeacademy for git practice. It has good resource.
+- Work smart
 - Work hard
 - Work towards your goal
+- Believe in your worth to contribute!  
+- If you don't try, you won't learn!
+- Don't be afraid to step out of your comfort zone
+- Work Diligently
+- Take brakes and take care of your health.
+- Stay in touch with connections on LinkedIn 
+- Don't let work become your whole life
+- Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
+Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
