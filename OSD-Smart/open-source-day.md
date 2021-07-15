@@ -3,13 +3,15 @@
 - Check out the OSD Social Wall here: https://osdsocialwall.com/
 - Don't be overwhelmed at any point of time.
 - Enjoy the experience!!
+- Enjoy the experience and learning!!
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Just do it and put on a smile.
 - Make sure you participate in the day :)
 - Never stop learning
 - Pair up with a buddy.
-- Post and share on social media using GraceHopperOSD
+- Post and share on social media using #OpenSourceDay2021
 - Take notes!
 - Talk and connect with people!
 - make sure to ask questions!
+- Be curious and love what you do!
