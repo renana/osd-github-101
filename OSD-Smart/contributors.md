@@ -96,6 +96,7 @@
 - mahita
 - srashta
 - swetha
+- Lorymar
 - Sai Teja Labba
 - Abbie Weisenbloom
 - siddhant prateek
