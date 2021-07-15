@@ -58,6 +58,7 @@
 - Parinaz Barakhshan
 - Pranjali
 - Roxy Williams
+- Ruth Ikegah
 - Sandra Jo
 - Sanjna
 - Sarah
