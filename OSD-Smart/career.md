@@ -92,6 +92,7 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- Work Diligently
 - Take brakes and take care of your health.
 - Stay in touch with connections on LinkedIn 
 - Don't let work become your whole life
