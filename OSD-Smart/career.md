@@ -85,5 +85,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Don't be afraid to step out of your comfort zone
 
 ## Add your favorite support resources for learning and best practices
