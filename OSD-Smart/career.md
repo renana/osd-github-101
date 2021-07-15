@@ -85,5 +85,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Stay in touch with connections on LinkedIn 
 
 ## Add your favorite support resources for learning and best practices
