@@ -62,6 +62,7 @@
 - Make sure the people in charge of your career knows the path you wish to take.
 - Make sure you are not over mentored and under sponsored.
 - Making some changes
+- Never be afraid of diving into a new technology.
 - Network with others
 - Networking is very important.
 - Post and share on social media using #OpenSourceDay2021
