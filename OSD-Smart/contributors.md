@@ -79,6 +79,7 @@
 - Soumya C
 - Sridevi Jantli
 - Srishti
+- Sruthi Sathyamoorthy
 - Stephanie Eldridge
 - Summan Mirza
 - Susan Thank you for presentation
