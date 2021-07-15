@@ -85,5 +85,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Never be afraid of diving into a new technology
 
 ## Add your favorite support resources for learning and best practices
