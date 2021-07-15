@@ -16,6 +16,7 @@
 - Ava
 - Becky
 - Bhanu Preeti Anand
+- Brenda Kamangara
 - Brianna Gilchrist
 - Cara Wong
 - Chang Liu, University of Washington
