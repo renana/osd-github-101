@@ -102,6 +102,7 @@
 - mahita
 - srashta
 - swetha
+- Claire (https://github.com/ClaireChiang91/osd-github-101)
 - Sudan
 - Apoorvi Dwivedi
 - lakshay-nasa
