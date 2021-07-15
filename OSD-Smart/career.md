@@ -17,6 +17,7 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
+- Be independant 
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!

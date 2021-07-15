@@ -2,6 +2,7 @@
 ##### (Make sure to keep this list sorted)
 
 - Aarti Bajaj
+- Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
 - Amy H

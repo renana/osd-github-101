@@ -1,6 +1,7 @@
 ## Open Source Day (OSD) tips and best practices
 
-- Enjoy the experience!!
+- Check out the OSD Social Wall here: https://osdsocialwall.com/
+- Enjoy the experience and learning!!
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Just do it and put on a smile.
