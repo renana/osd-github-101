@@ -92,6 +92,7 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
 - Work Diligently
 - Take brakes and take care of your health.
