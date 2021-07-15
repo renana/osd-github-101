@@ -13,6 +13,7 @@
 - Post and share on social media using #OpenSourceDay2021
 - Take notes!
 - Talk and connect with people!
+- Have Fun!
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
