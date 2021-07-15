@@ -120,3 +120,4 @@
 - Sarah Sß
 - Ankit
 - Divyesh Nandlal Vishwakarma
+- Trang Dang
