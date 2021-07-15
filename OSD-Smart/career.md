@@ -87,6 +87,8 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Don't let work become your whole life
+- Be open-minded about learning from those with less experience than you as well as those with more experience than you
 - Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
