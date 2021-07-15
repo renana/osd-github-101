@@ -2,6 +2,7 @@
 ##### (Make sure to keep this list sorted)
 
 - Aarti Bajaj
+- Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
 - Amy H
@@ -33,6 +34,7 @@
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
+- Anjana Anil
 - Keerthi
 - Kelly Fernandez
 - Kiana
@@ -56,6 +58,7 @@
 - Parinaz Barakhshan
 - Pranjali
 - Roxy Williams
+- Ruth Ikegah
 - Sandra Jo
 - Sanjna
 - Sarah
@@ -72,10 +75,12 @@
 - Stephanie Eldridge
 - Summan Mirza
 - Susan Thank you for presentation
+- Swastika Gupta
 - Sweta
 - Taylor
 - Teresa Hubscher-Younger
 - Trang
+- Tiffany
 - Veena
 - Winny Hu 
 - Xiaoran
@@ -88,5 +93,6 @@
 - srashta
 - swetha
 - Meri Koenhemsi
-
-
+- Sarah Sß
+- Ankit
+- Divyesh Nandlal Vishwakarma
