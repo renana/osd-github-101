@@ -11,3 +11,4 @@
 - Take notes!
 - Talk and connect with people!
 - make sure to ask questions!
+- Have Fun!
