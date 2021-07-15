@@ -1,6 +1,5 @@
-﻿# Add your name as a Contributor below
-
-## Add your name as a Contributor below
+﻿## Add your name as a Contributor below
+##### (Make sure to keep this list sorted)
 
 - Aarti Bajaj
 - Alex Nazareno
