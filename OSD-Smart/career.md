@@ -2,6 +2,7 @@
 
 ## Add your own tip to the list or constribute a visual change
 
+- Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
 - Always listen when told :)
@@ -17,6 +18,7 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
+- Be independant 
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
@@ -60,6 +62,7 @@
 - Make sure the people in charge of your career knows the path you wish to take.
 - Make sure you are not over mentored and under sponsored.
 - Making some changes
+- Never be afraid of diving into a new technology.
 - Network with others
 - Networking is very important.
 - Post and share on social media using #OpenSourceDay2021
@@ -86,5 +89,8 @@
 - Work hard
 - Work towards your goal
 - Stay in touch with connections on LinkedIn 
+- Don't let work become your whole life
+- Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
