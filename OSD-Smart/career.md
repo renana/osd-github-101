@@ -33,6 +33,7 @@
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
+- Keep learning
 - Create a strong resume and cover letter
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
@@ -104,3 +105,4 @@
 - Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
+Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
