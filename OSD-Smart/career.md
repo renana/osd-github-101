@@ -85,5 +85,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Blieve in your worth to contribute!  
 
 ## Add your favorite support resources for learning and best practices
