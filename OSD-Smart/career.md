@@ -28,7 +28,7 @@
 - Believe in yourself
 - Build good rapport with your teammates.
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
-- Clearly ask what you want.
+- Clearly ask for what you want.
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
