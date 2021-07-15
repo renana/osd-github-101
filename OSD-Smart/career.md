@@ -91,6 +91,7 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- Don't be afraid to step out of your comfort zone
 - Work Diligently
 - Take brakes and take care of your health.
 - Stay in touch with connections on LinkedIn 
