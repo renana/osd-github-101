@@ -51,7 +51,7 @@
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
 - Know what you want to do
-- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/master/GitHub-101.pdf)
+- Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
 - Life long learning : always be curious 
 - Live, Love, Laugh and keep Learning
@@ -62,7 +62,7 @@
 - Making some changes
 - Network with others
 - Networking is very important.
-- Post and share on social media using GraceHopperOSD
+- Post and share on social media using #OpenSourceDay2021
 - Practice Leetcode
 - Prepare for performance reviews by writing private notes for a term paper on why you are awesome at work.  Ignore any voice in your head telling you to be humble; this is not the time.
 - Regularly check in with mentors and sponsors to get constructive feedback
