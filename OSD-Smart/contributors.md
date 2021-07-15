@@ -42,7 +42,7 @@
 - Luísa Souza Moura
 - MJ
 - Madi Fishtrom
-- Manasvi Goyal
+- Manasvi Goyal 
 - Michelle
 - Minati Alphonso
 - Monami
