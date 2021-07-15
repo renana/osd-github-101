@@ -85,5 +85,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Take brakes and take care of your health.
 
 ## Add your favorite support resources for learning and best practices
