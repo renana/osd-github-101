@@ -8,7 +8,7 @@
 - Make sure you participate in the day :)
 - Never stop learning
 - Pair up with a buddy.
-- Post and share on social media using GraceHopperOSD
+- Post and share on social media using #OpenSourceDay2021
 - Take notes!
 - Talk and connect with people!
 - make sure to ask questions!
