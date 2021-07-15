@@ -93,6 +93,7 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- Believe in your worth to contribute!  
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
 - Work Diligently
