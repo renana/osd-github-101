@@ -5,6 +5,7 @@
 - Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
+- Always keep your resume updated
 - Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
