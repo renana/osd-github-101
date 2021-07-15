@@ -85,5 +85,5 @@
 - Work Smart
 - Work hard
 - Work towards your goal
-
+- If you don't try, you won't learn!
 ## Add your favorite support resources for learning and best practices
