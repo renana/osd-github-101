@@ -6,6 +6,7 @@
 - Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
+- Alissa Zhang
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla

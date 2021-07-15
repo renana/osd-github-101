@@ -1,6 +1,6 @@
 ## Career tips and best practices
 
-## Add your own tip to the list or constribute a visual change
+## Add your own tip to the list or contribute a visual change
 
 - Be kind!
 - Always assume the other person is your ally
@@ -8,7 +8,7 @@
 - Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
-- Ask for guidance and help from mentors, sponsors to get there 
+- Ask for guidance and help from mentors, sponsors to get there
 - Ask questions.
 - Attend sessions like VGHC
 - Bad planning on your part does not constitute an emergency on my part.
@@ -25,7 +25,7 @@
 - Be specific when asking for help from your mentor.
 - Be vocal!
 - Believe in yourself
-- Build good raport with your teammates.
+- Build good rapport with your teammates.
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
 - Clearly ask what you want.
 - Collaborate often with team members
@@ -37,9 +37,10 @@
 - Don't be afraid of things that are hard!
 - Don't be afraid to apply
 - Don't be afraid to ask for help
+- Don't be afraid to make mistakes
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
-- Dont focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
+- Don't focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Figure out what you want to do
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
@@ -48,14 +49,14 @@
 - Get feedback from people you worked with
 - Get feedback from time to time
 - Have conversations with your mentor
-- If you dont trust your management to do right by you, get out of that team
+- If you don't trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
 - Know what you want to do
 - Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
-- Life long learning : always be curious 
+- Life long learning : always be curious
 - Live, Love, Laugh and keep Learning
 - Make a plan with your manager and your sponsor of the goals you need to reach for you to advance in each step.
 - Make goals and track them regularly
@@ -76,16 +77,16 @@
 - Speak up and ensure that your voice is being heard
 - Stand up for your values
 - Start creating promotion document and align it with your goals.
-- Thanks for this wonderful workshop 
+- Thanks for this wonderful workshop
 - The 'impossible' is possible!
 - The best is yet to come
-- Track your progress and evaluate periodicallly
+- Track your progress and evaluate periodically
 - Trust your abilities! You are smart.
 - Try new things
-- Try to be kind to everyone you work with even if it's just smiling atsomeone you pass in the hallway.
+- Try to be kind to everyone you work with even if it's just smiling at someone you pass in the hallway.
 - Understand what is the gap between your current level and the next level
-- Use Udemy or codeacademy for git practices. It has good resource.
-- Work Smart
+- Use Udemy or codeacademy for git practice. It has good resource.
+- Work smart
 - Work hard
 - Work towards your goal
 - Stay in touch with connections on LinkedIn 
