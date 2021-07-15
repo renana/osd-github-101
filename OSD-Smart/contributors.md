@@ -3,6 +3,7 @@
 ## Add your name as a Contributor below
 
 - Aarti Bajaj
+- Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
 - Amy H
