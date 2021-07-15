@@ -68,6 +68,7 @@
 - Sharmy-r
 - Sheila Pinto
 - Shweta M
+- Soumya C
 - Sridevi Jantli
 - Srishti
 - Stephanie Eldridge
