@@ -93,6 +93,7 @@
 - mahita
 - srashta
 - swetha
+- Kaleah
 - Serena Lin
 - Meri Koenhemsi
 - Sarah Sß
