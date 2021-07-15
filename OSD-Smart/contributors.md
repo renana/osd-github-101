@@ -31,6 +31,7 @@
 - Heghine
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
+- Jenny Wilson
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
