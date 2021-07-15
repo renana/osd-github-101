@@ -86,5 +86,6 @@
 - Work Smart
 - Work hard
 - Work towards your goal
+- Keep Hustling and ;looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
