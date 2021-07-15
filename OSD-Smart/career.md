@@ -5,6 +5,7 @@
 - Be kind!
 - Always assume the other person is your ally
 - Always bring peanut butter to work to share with your coworkers
+- Always keep your resume updated
 - Always listen when told :)
 - Always try out stuff by implementing
 - Ask dumb questions.
@@ -28,7 +29,7 @@
 - Believe in yourself
 - Build good rapport with your teammates.
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
-- Clearly ask what you want.
+- Clearly ask for what you want.
 - Collaborate often with team members
 - Connect with your peers
 - Contribution by Ruchi
@@ -36,6 +37,7 @@
 - Do "hallway chats" with anyone and everyone you meet to build connections.
 - Do not be afraid to ask questions, especially during internships
 - Don't be afraid of things that are hard!
+- Keeping doing what you are doing
 - Don't be afraid to apply
 - Don't be afraid to ask for help
 - Don't be afraid to make mistakes
@@ -91,7 +93,9 @@
 - Work smart
 - Work hard
 - Work towards your goal
-- Blieve in your worth to contribute!  
+- Believe in your worth to contribute!  
+- If you don't try, you won't learn!
+- Don't be afraid to step out of your comfort zone
 - Work Diligently
 - Take brakes and take care of your health.
 - Stay in touch with connections on LinkedIn 

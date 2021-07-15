@@ -34,6 +34,7 @@
 - Heghine
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
+- Jenny Wilson
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
@@ -48,6 +49,7 @@
 - Madi Fishtrom
 - Manasvi Goyal 
 - Michelle
+- Michelle Zelechoski
 - Minati Alphonso
 - Monami
 - Mrunal Bandodkar
@@ -75,9 +77,11 @@
 - Sharmy-r
 - Sheila Pinto
 - Shweta M
+- Shweta Srinivasan
 - Soumya C
 - Sridevi Jantli
 - Srishti
+- Sruthi Sathyamoorthy
 - Stephanie Eldridge
 - Summan Mirza
 - Susan Thank you for presentation
@@ -99,6 +103,10 @@
 - srashta
 - swetha
 - Apoorvi Dwivedi
+- lakshay-nasa
+- Dinesh kumar 
+- Vijaya lakshmi Venkatraman
+- Tracy Cummins
 - Rachel
 - Lorymar
 - Sai Teja Labba
