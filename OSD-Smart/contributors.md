@@ -6,6 +6,7 @@
 - Aastha Rastogi
 - Alex Nazareno
 - Alexis Thompson
+- Alina (Xi) Li
 - Alissa Zhang
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
@@ -122,4 +123,3 @@
 - Divyesh Nandlal Vishwakarma
 - Trang Dang
 - Akanksha Chaudhari https://github.com/Astroakanksha24
-- Alina (Xi) Li
