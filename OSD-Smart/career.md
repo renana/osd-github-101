@@ -31,6 +31,7 @@
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
 - Clearly ask for what you want.
 - Collaborate often with team members
+- Commit to something, dominate it and then continue learning!
 - Connect with your peers
 - Contribution by Ruchi
 - Keep learning
