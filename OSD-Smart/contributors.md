@@ -76,6 +76,7 @@
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
+- Shreya Shrestha
 - Shweta M
 - Shweta Srinivasan
 - Soumya C
