@@ -64,6 +64,7 @@
 - Ning Dong
 - Parinaz Barakhshan
 - Pranjali
+- Regina Robinson
 - Roxy Williams
 - Ruth Ikegah
 - Sandra Jo
