@@ -60,6 +60,7 @@
 - NasmaSim
 - Neha
 - Nikki Conley
+- Nikki Yang
 - Nine
 - Ning Dong
 - Parinaz Barakhshan
