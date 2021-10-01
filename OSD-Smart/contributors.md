@@ -4,6 +4,7 @@
 
 - Aarti Bajaj
 - Aastha Rastogi
+- Aishwariya
 - Alex Chabot
 - Alex Nazareno
 - Alexis Thompson
