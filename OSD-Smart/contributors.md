@@ -24,6 +24,7 @@
 - Corinne Battle
 - Delaney!
 - Dhivya
+- Diane
 - Divya Muruganantham
 - Emelie
 - Emily O'Connell
