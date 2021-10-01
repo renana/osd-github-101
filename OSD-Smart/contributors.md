@@ -40,6 +40,7 @@
 - James Lin
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Justine Finley
 - Karen Tran
 - Kastur Koul
 - Katherine Brooks
