@@ -66,6 +66,7 @@
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
+- Keep a healthy discussion if you got stuck anywhere
 - Know what you want to do
 - Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
