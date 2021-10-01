@@ -81,6 +81,7 @@
 - Nikki Conley
 - Nine
 - Ning Dong
+- Olivia
 - Parinaz Barakhshan
 - Prabha
 - Prabha Viswanathan
