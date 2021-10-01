@@ -30,6 +30,7 @@
 - Emelie
 - Emily O'Connell
 - Emily Taylor
+- Gargi Kulkarni
 - Geetika Katragadda
 - Gorisha Agarwal
 - groana
