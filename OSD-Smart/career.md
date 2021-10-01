@@ -115,7 +115,6 @@
 - Don't be afraid to step out of your comfort zone
 - Failure is just a data point
 - Work Diligently
-- Keep Hustling and ;looking for opportunities
 - Be brave
 - Take breaks and take care of your health.
 - Stay in touch with connections on LinkedIn 
