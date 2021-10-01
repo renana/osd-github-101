@@ -4,13 +4,18 @@
 
 - Aarti Bajaj
 - Aastha Rastogi
+- Abbie Weisenbloom
+- Akanksha Chaudhari https://github.com/Astroakanksha24
 - Alex Nazareno
 - Alexis Thompson
 - Alissa Zhang
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
+- Anjana Anil
+- Ankit
 - Anna
+- Apoorvi Dwivedi
 - Arpita
 - Arushi Rawal (https://github.com/arushirawal20 )
 - Ava
@@ -19,12 +24,16 @@
 - Brenda Kamangara
 - Brianna Gilchrist
 - Cara Wong
+- Carleen Shah
 - Chang Liu, University of Washington
+- Claire (https://github.com/ClaireChiang91/osd-github-101)
 - Clovy Meng
 - Corinne Battle
 - Delaney!
 - Dhivya
+- Dinesh kumar 
 - Divya Muruganantham
+- Divyesh Nandlal Vishwakarma
 - Emelie
 - Emily O'Connell
 - Emily Taylor
@@ -35,22 +44,28 @@
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- jingxu016
+- Kaleah
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
-- Anjana Anil
 - Keerthi
 - Kelly Fernandez
 - Kiana
 - Kirsty B
+- lakshay-nasa
+- leticia velazquez
 - Lisa Isaeva
+- Lorymar
 - Luísa Souza Moura
-- MJ
 - Madi Fishtrom
-- Manasvi Goyal 
+- mahita
+- Manasvi Goyal
+- Meri Koenhemsi
 - Michelle
 - Michelle Zelechoski
 - Minati Alphonso
+- MJ
 - Monami
 - Mrunal Bandodkar
 - Musfera Khan
@@ -64,61 +79,47 @@
 - Ning Dong
 - Parinaz Barakhshan
 - Pranjali
+- Rachel
 - Roxy Williams
 - Ruth Ikegah
+- Sai Teja Labba
 - Sandra Jo
 - Sanjna
 - Sarah
 - Sarah Adair
+- Sarah Sß
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
+- Serena Lin
 - Shahana
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
 - Shweta M
 - Shweta Srinivasan
+- siddhant prateek
 - Soumya C
+- srashta
 - Sridevi Jantli
 - Srishti
 - Sruthi Sathyamoorthy
 - Stephanie Eldridge
+- Sudan
 - Summan Mirza
 - Susan Thank you for presentation
 - Swastika Gupta
 - Sweta
+- swetha
 - Taylor
 - Teresa Hubscher-Younger
+- Tracy Cummins
 - Trang
+- Trang Dang
 - Tiffany
 - Veena
+- Vijaya lakshmi Venkatraman
 - Winny Hu
 - Xiaoran
 - Yang
 - Yifan Zhang
 - Yucheng
-- jingxu016
-- leticia velazquez
-- mahita
-- srashta
-- swetha
-- Claire (https://github.com/ClaireChiang91/osd-github-101)
-- Sudan
-- Apoorvi Dwivedi
-- lakshay-nasa
-- Dinesh kumar 
-- Vijaya lakshmi Venkatraman
-- Tracy Cummins
-- Rachel
-- Lorymar
-- Sai Teja Labba
-- Abbie Weisenbloom
-- siddhant prateek
-- Kaleah
-- Serena Lin
-- Meri Koenhemsi
-- Sarah Sß
-- Ankit
-- Divyesh Nandlal Vishwakarma
-- Trang Dang
-- Akanksha Chaudhari https://github.com/Astroakanksha24
