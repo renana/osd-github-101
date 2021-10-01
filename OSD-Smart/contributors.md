@@ -37,6 +37,7 @@
 - Heghine
 - Harini Vasudevan
 - Isabella Ortiz
+- James Lin
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
 - Karen Tran
