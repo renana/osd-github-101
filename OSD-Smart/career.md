@@ -98,11 +98,12 @@
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
 - Work Diligently
-- Take brakes and take care of your health.
+- Take breaks and take care of your health.
 - Stay in touch with connections on LinkedIn 
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
-- Keep Hustling and ;looking for opportunities
+- Keep Hustling and looking for opportunities
+- Don't be afraid to challenge yourself!
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
