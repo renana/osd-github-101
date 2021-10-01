@@ -44,6 +44,7 @@
 - Kiana
 - Kirsty B
 - Lisa Isaeva
+- Liz Hecht
 - Luísa Souza Moura
 - MJ
 - Madi Fishtrom
