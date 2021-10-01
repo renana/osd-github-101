@@ -96,6 +96,7 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- Walk together with everyone. Bring people upto speed and don't leave anyone behind.
 - Believe in your worth to contribute!  
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
