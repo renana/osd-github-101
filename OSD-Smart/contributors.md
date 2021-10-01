@@ -35,6 +35,7 @@
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Jyoti
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
