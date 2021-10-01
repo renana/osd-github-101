@@ -22,6 +22,7 @@
 - Chang Liu, University of Washington
 - Clovy Meng
 - Corinne Battle
+- Danielle Dorme
 - Delaney!
 - Dhivya
 - Divya Muruganantham

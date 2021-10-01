@@ -50,6 +50,7 @@
 - Find something that interests you that you don't know yet that will benefit your team.
 - Find your sponsor and allies
 - Follow-through on your plan.
+- Go for a walk if you're stuck on something or frustrated; pick it back up with fresh eyes.
 - Get feedback from people you worked with
 - Get feedback from time to time
 - Have conversations with your mentor
