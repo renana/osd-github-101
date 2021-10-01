@@ -41,6 +41,7 @@
 - Keeping doing what you are doing
 - Don't be afraid to apply
 - Don't be afraid to ask for help
+- Don't be afraid to ask questions and question what is known
 - Don't be afraid to make mistakes
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
