@@ -18,4 +18,6 @@
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
+- No fear to make mistake... learn from it!
+- Relax & Smile / Laugh more 
 - Be in the moment! You can always go back and reference recordings 👩🏻‍💻
