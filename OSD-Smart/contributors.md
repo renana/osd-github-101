@@ -82,6 +82,7 @@
 - Pranjali
 - Preetika 
 - Roxy Williams
+- Rushali Sarkar
 - Ruth Ikegah
 - Sandra Jo
 - Sanjna
