@@ -7,6 +7,8 @@
 - Alex Nazareno
 - Alexis Thompson
 - Alissa Zhang
+- Amanda Shankle-Knowlton
+- Amit Bhargava
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
@@ -30,11 +32,16 @@
 - Emily Taylor
 - Geetika Katragadda
 - Gorisha Agarwal
+- groana
 - Gunjan Gupta
 - Heghine
+- Harini Vasudevan
 - Isabella Ortiz
+- James Lin
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Justine Finley
+- Karen Tran
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
@@ -43,6 +50,7 @@
 - Kelly Fernandez
 - Kiana
 - Kirsty B
+  Ling L
 - Lisa Isaeva
 - Luísa Souza Moura
 - MJ
@@ -58,13 +66,16 @@
 - Naga Janaki Dwadasi
 - Nas H
 - NasmaSim
+- Neelam
 - Neha
 - Nikki Conley
 - Nine
 - Ning Dong
 - Parinaz Barakhshan
 - Prabha
+- Prabha Viswanathan
 - Pranjali
+- Preetika 
 - Roxy Williams
 - Ruth Ikegah
 - Sandra Jo
@@ -123,3 +134,7 @@
 - Divyesh Nandlal Vishwakarma
 - Trang Dang
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Bao Tran Nguyen
+- Dahlia Kadri
+- KirtiShanbhag 
+- [Vidushi Gupta](https://github.com/Vidushi-Gupta)
