@@ -21,6 +21,7 @@
 - Be curious
 - Be customer focused
 - Be enthusiastic!
+- Be fearless
 - Be independant 
 - Be open to feedback
 - Be open-minded
