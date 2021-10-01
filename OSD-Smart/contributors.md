@@ -45,6 +45,7 @@
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
 - Justine Finley
+- Jyothi Sindhu https://github.com/JyothiSindhuN/
 - Karen Tran
 - Kastur Koul
 - Katherine Brooks
