@@ -121,4 +121,5 @@
 - Ankit
 - Divyesh Nandlal Vishwakarma
 - Trang Dang
+- A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
