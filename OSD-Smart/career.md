@@ -19,6 +19,7 @@
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
+- Be customer focused
 - Be enthusiastic!
 - Be independant 
 - Be open to feedback
@@ -45,6 +46,7 @@
 - Don't be afraid to take up new challenges and enjoy yourself in the process
 - Don't think that you don't belong; you do!
 - Don't focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
+  Expore the your interests.
 - Figure out what you want to do
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
@@ -94,15 +96,20 @@
 - Work smart
 - Work hard
 - Work towards your goal
+- Walk together with everyone. Bring people upto speed and don't leave anyone behind.
 - Believe in your worth to contribute!  
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
 - Work Diligently
-- Take brakes and take care of your health.
+- Take breaks and take care of your health.
 - Stay in touch with connections on LinkedIn 
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
-- Keep Hustling and ;looking for opportunities
+- Keep Hustling and looking for opportunities
+- Don't be afraid to challenge yourself!
+- Keep up to date with the language you're using professionally
+- Enjoy TECH! :)
+- Always tell yourself, "I DESERVE to be at the table", No imposter syndrome!
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
