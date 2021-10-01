@@ -153,6 +153,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Susan J.
 - Sindhu Priyadarshini
 - Nora Gera
 - Raina Huerta
