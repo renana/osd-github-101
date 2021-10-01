@@ -2,6 +2,7 @@
 
 - Check out the OSD Social Wall here: https://osdsocialwall.com/
 - Don't be overwhelmed at any point of time.
+- Dare to git commit!
 - Enjoy the experience!!
 - Enjoy the experience and learning!!
 - Join OSD workshops to learn about Open Source and the community

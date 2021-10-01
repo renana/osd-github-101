@@ -20,6 +20,7 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
+- Be fearless
 - Be independant 
 - Be open to feedback
 - Be open-minded
