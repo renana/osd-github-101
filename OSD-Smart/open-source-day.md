@@ -17,3 +17,4 @@
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
+- Be in the moment! You can always go back and reference recordings 👩🏻‍💻
