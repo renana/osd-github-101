@@ -60,6 +60,7 @@
 - Get feedback from time to time
 - Have conversations with your mentor
 - If you don't trust your management to do right by you, get out of that team
+- It's OK to ask for help.
 - Its ok to fail sometimes!
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
