@@ -43,6 +43,7 @@
 - Kelly Fernandez
 - Kiana
 - Kirsty B
+  Ling L
 - Lisa Isaeva
 - Luísa Souza Moura
 - MJ
