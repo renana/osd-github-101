@@ -46,6 +46,7 @@
 - Don't think that you don't belong; you do!
 - Don't focus on what you are getting promotion/package. Focus on your work. Give management chance to take care of the returns
 - Figure out what you want to do
+- Find a technical and career mentor
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
 - Find your sponsor and allies
