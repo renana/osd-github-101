@@ -80,6 +80,7 @@
 - Shweta Srinivasan
 - Soumya C
 - Sridevi Jantli
+- Srijani
 - Srishti
 - Sruthi Sathyamoorthy
 - Stephanie Eldridge
