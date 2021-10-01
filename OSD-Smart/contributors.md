@@ -8,6 +8,7 @@
 - Alexis Thompson
 - Alissa Zhang
 - Amanda Shankle-Knowlton
+- Amit Bhargava
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla

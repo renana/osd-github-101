@@ -19,6 +19,7 @@
 - Be confident in yourself <-- this is important
 - Be cool
 - Be curious
+- Be customer focused
 - Be enthusiastic!
 - Be independant 
 - Be open to feedback
