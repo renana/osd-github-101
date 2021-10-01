@@ -57,6 +57,7 @@
 - Join OSD workshops to learn about Open Source and the community
 - Join the contribution tracks to help existing projects and create impact
 - Keep moving, don't stop
+- Keep a healthy discussion if you got stuck anywhere
 - Know what you want to do
 - Learn to work with Github (a good place to start, in case you missed it : https://github.com/renana/osd-github-101/blob/main/GitHub-101.pdf)
 - Learning git
@@ -102,7 +103,7 @@
 - Stay in touch with connections on LinkedIn 
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
-- Keep Hustling and ;looking for opportunities
+- Keep Hustling and looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
