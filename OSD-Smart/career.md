@@ -12,6 +12,7 @@
 - Ask for guidance and help from mentors, sponsors to get there
 - Ask questions.
 - Ask google for any help if needed!
+- Ask to participate in meetings you can learn from, just 'as a fly on the wall'.
 - Attend sessions like VGHC
 - Bad planning on your part does not constitute an emergency on my part.
 - Be a mentor
@@ -102,7 +103,7 @@
 - Stay in touch with connections on LinkedIn 
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
-- Keep Hustling and ;looking for opportunities
+- Keep Hustling and looking for opportunities
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!

@@ -7,6 +7,7 @@
 - Alex Nazareno
 - Alexis Thompson
 - Alissa Zhang
+- Amanda Culley
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
