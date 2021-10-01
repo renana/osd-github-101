@@ -12,6 +12,7 @@
 - Ask for guidance and help from mentors, sponsors to get there
 - Ask questions.
 - Ask google for any help if needed!
+- Ask to participate in meetings you can learn from, just 'as a fly on the wall'.
 - Attend sessions like VGHC
 - Bad planning on your part does not constitute an emergency on my part.
 - Be a mentor

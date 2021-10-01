@@ -8,6 +8,7 @@
 - Alex Nazareno
 - Alexis Thompson
 - Alissa Zhang
+- Amanda Culley
 - Amanda Shankle-Knowlton
 - Amit Bhargava
 - Amy H
