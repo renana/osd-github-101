@@ -62,6 +62,7 @@
 - Nikki Conley
 - Nine
 - Ning Dong
+- Olivia
 - Parinaz Barakhshan
 - Pranjali
 - Roxy Williams
