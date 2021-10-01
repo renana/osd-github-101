@@ -72,6 +72,7 @@
 - Sarah Adair
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
+- Sejal Goyal
 - Shahana
 - Shannon Lu
 - Sharmy-r
