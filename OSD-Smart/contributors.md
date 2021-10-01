@@ -35,6 +35,7 @@
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Jyothi Sindhu https://github.com/JyothiSindhuN/
 - Kastur Koul
 - Katherine Brooks
 - Kayla Foremksi
