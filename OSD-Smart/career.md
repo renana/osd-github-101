@@ -108,12 +108,14 @@
 - Be confident
 - Work hard
 - Work towards your goal
+- Believe in your worth to contribute!
 - Walk together with everyone. Bring people upto speed and don't leave anyone behind.
 - Believe in your worth to contribute!  
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
 - Failure is just a data point
 - Work Diligently
+- Be brave
 - Take breaks and take care of your health.
 - Stay in touch with connections on LinkedIn 
 - Don't get dissapointed by failures they are chances for you to improve yourself and grow!
