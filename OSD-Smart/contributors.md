@@ -151,6 +151,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Sindhu Priyadarshini
 - Nora Gera
 - Raina Huerta
 - Billie Chen

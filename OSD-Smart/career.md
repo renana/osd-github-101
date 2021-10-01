@@ -118,6 +118,7 @@
 - Don't get dissapointed by failures they are chances for you to improve yourself and grow!
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Dare to think out of the box
 - Be authentic
 - Keep Hustling and looking for opportunities
 - Don't be afraid to challenge yourself!
