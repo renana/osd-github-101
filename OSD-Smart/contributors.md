@@ -48,6 +48,7 @@
 - MJ
 - Madi Fishtrom
 - Manasvi Goyal 
+- Manu Vij
 - Michelle
 - Michelle Zelechoski
 - Minati Alphonso
