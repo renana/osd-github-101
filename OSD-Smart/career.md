@@ -104,6 +104,8 @@
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
 - Keep Hustling and ;looking for opportunities
 - Keep up to date with the language you're using professionally
+- Enjoy TECH! :)
+- Always tell yourself, "I DESERVE to be at the table", No imposter syndrome!
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
