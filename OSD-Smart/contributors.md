@@ -29,6 +29,7 @@
 - Emily O'Connell
 - Emily Taylor
 - Geetika Katragadda
+- Glenda Aranas
 - Gorisha Agarwal
 - Gunjan Gupta
 - Heghine
