@@ -20,7 +20,7 @@
 - Be cool
 - Be curious
 - Be enthusiastic!
-- Be independant 
+- Be independant
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
@@ -99,10 +99,11 @@
 - Don't be afraid to step out of your comfort zone
 - Work Diligently
 - Take brakes and take care of your health.
-- Stay in touch with connections on LinkedIn 
+- Stay in touch with connections on LinkedIn
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
 - Keep Hustling and ;looking for opportunities
+- Be yourself!
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!

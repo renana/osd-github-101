@@ -15,5 +15,6 @@
 - Talk and connect with people!
 - Have Fun!
 - Make sure to ask questions!
-- Connect with mentors 
+- Connect with mentors
 - Be curious and love what you do!
+- Don't get overwhelmed if you don't know everything. Everyone has to start somewhere!
