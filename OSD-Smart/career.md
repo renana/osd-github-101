@@ -92,6 +92,7 @@
 - Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practice. It has good resource.
 - Work smart
+- Be confident
 - Work hard
 - Work towards your goal
 - Believe in your worth to contribute!  
