@@ -97,6 +97,7 @@
 - Believe in your worth to contribute!  
 - If you don't try, you won't learn!
 - Don't be afraid to step out of your comfort zone
+- Failure is just a data point
 - Work Diligently
 - Take brakes and take care of your health.
 - Stay in touch with connections on LinkedIn 
