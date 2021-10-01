@@ -32,6 +32,7 @@
 - Gorisha Agarwal
 - Gunjan Gupta
 - Heghine
+- Ilana-Mahmea Siegel
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
