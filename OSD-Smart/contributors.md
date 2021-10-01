@@ -33,6 +33,7 @@
 - Gunjan Gupta
 - Heghine
 - Isabella Ortiz
+- James Lin
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
 - Kastur Koul
