@@ -101,6 +101,7 @@
 - leticia velazquez
 - mahita
 - srashta
+- Stella
 - swetha
 - Claire (https://github.com/ClaireChiang91/osd-github-101)
 - Sudan
