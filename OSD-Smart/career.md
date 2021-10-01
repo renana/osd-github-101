@@ -24,6 +24,7 @@
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
+- Be respectful
 - Be specific when asking for help from your mentor.
 - Be vocal!
 - Believe in yourself

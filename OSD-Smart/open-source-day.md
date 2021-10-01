@@ -17,3 +17,5 @@
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
+- No fear to make mistake... learn from it!
+- Relax & Smile / Laugh more 
