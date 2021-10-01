@@ -18,6 +18,7 @@
 - Be confident
 - Be confident in yourself <-- this is important
 - Be cool
+- Be you 
 - Be curious
 - Be enthusiastic!
 - Be independant 
