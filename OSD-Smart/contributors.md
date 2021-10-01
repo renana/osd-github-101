@@ -145,6 +145,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Nora Gera
 - Raina Huerta
 - Billie Chen
 - Bao Tran Nguyen
