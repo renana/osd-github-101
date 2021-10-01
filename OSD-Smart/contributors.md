@@ -20,6 +20,7 @@
 - Brianna Gilchrist
 - Cara Wong
 - Chang Liu, University of Washington
+- Christyn Booth
 - Clovy Meng
 - Corinne Battle
 - Delaney!

@@ -103,6 +103,7 @@
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
 - Keep Hustling and ;looking for opportunities
+- As your colleagues and teammates move on, set reminders to reach out to them and especially to keep up with their careers. You can all help each other!
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
