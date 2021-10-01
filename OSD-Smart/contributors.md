@@ -31,6 +31,7 @@
 - Corinne Battle
 - Delaney!
 - Dhivya
+- Dina Reidel
 - Divya Muruganantham
 - Emelie
 - Emily O'Connell
