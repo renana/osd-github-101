@@ -11,6 +11,7 @@
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
 - Anna
+- Anne C
 - Arpita
 - Arushi Rawal (https://github.com/arushirawal20 )
 - Ava
