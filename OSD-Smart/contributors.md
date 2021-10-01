@@ -41,6 +41,7 @@
 - Gorisha Agarwal
 - Gunjan Gupta
 - Heghine
+- Harini Vasudevan
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
@@ -117,6 +118,7 @@
 - Trang Dang
 - Tiffany
 - Veena
+- [Vidushi Gupta](https://github.com/Vidushi-Gupta)
 - Vijaya lakshmi Venkatraman
 - Winny Hu
 - Xiaoran
