@@ -52,6 +52,7 @@
 - Follow-through on your plan.
 - Get feedback from people you worked with
 - Get feedback from time to time
+- Give actionable feedback to people
 - Have conversations with your mentor
 - If you don't trust your management to do right by you, get out of that team
 - Join OSD workshops to learn about Open Source and the community
