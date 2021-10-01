@@ -144,6 +144,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Raina Huerta
 - Billie Chen
 - Bao Tran Nguyen
 - Dahlia Kadri
