@@ -72,6 +72,7 @@
 - Parinaz Barakhshan
 - Prabha Viswanathan
 - Pranjali
+- Preetika 
 - Roxy Williams
 - Ruth Ikegah
 - Sandra Jo
