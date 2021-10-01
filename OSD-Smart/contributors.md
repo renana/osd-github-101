@@ -126,5 +126,6 @@
 - Divyesh Nandlal Vishwakarma
 - Trang Dang
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Dahlia Kadri
 - KirtiShanbhag 
 - [Vidushi Gupta](https://github.com/Vidushi-Gupta)
