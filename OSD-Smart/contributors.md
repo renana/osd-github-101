@@ -68,6 +68,7 @@
   Ling L
 - Lisa Isaeva
 - Luísa Souza Moura
+- Lynndell Gardiner
 - MJ
 - Madi Fishtrom
 - Manasvi Goyal

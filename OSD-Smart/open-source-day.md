@@ -18,6 +18,7 @@
 - Make sure to ask questions!
 - Connect with mentors
 - Be curious and love what you do!
+- Take it slow and learn all you can!
 - Don't get overwhelmed if you don't know everything. Everyone has to start somewhere!
 - Good luck!
 - Feel Free to ask doubts. 
