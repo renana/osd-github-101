@@ -169,6 +169,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Parmita
 - Shreya Shrestha
 - Shaswati Mukherjee
 - Nithya RM
