@@ -8,6 +8,7 @@
 - Alex Chabot
 - Alex Nazareno
 - Alexis Thompson
+- Alina (Xi) Li
 - Alissa Zhang
 - Amanda Culley
 - Amanda Shankle-Knowlton
