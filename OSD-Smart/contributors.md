@@ -159,6 +159,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Shaswati Mukherjee
 - Nithya RM
 - Ananya Pal
 - Zhengrui Lu https://github.com/ZhengruiLu
