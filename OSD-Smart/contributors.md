@@ -179,6 +179,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Zi Wang
 - skaladhar
 - Parmita
 - Shreya Shrestha
