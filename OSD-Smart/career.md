@@ -56,6 +56,7 @@
 - Enjoy your work
   Expore the your interests.
 - Figure out what you want to do
+- Find a technical and career mentor
 - Find a sponsor
 - Find something that interests you that you don't know yet that will benefit your team.
 - Find your sponsor and allies
