@@ -126,6 +126,7 @@
 - Don't get dissapointed by failures they are chances for you to improve yourself and grow!
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- As your colleagues and teammates move on, set reminders to reach out to them and especially to keep up with their careers. You can all help each other!
 - Work-life balance is more important than you think
 - Don't care what other people say
 - Relax, Take a deep breath. Calm down. you are going to make it. YOU ARE MEANT TO BE SUCCESSFULL.
