@@ -74,6 +74,7 @@
 - Kirsty B
   Ling L
 - Lisa Isaeva
+- Lisa T
 - Liz Hecht
 - Luísa Souza Moura
 - Lynndell Gardiner
