@@ -49,6 +49,7 @@
 - James Lin
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Jyoti
 - JC S
 - Justine Finley
 - Jyothi Sindhu https://github.com/JyothiSindhuN/
