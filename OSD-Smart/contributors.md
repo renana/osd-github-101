@@ -38,6 +38,7 @@
 - Emelie
 - Emily O'Connell
 - Emily Taylor
+- Fardina Alam
 - Gargi Kulkarni
 - Geetika Katragadda
 - Gorisha Agarwal
