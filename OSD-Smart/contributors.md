@@ -115,6 +115,7 @@
 - Sayali Naval (https://github.com/sayalinaval)
 - Selbi
 - Sejal Goyal
+- Shadya Obuya
 - Shahana
 - Shannon Liou
 - Shannon Lu
