@@ -64,6 +64,7 @@
 - Go for a walk if you're stuck on something or frustrated; pick it back up with fresh eyes.
 - Get feedback from people you worked with
 - Get feedback from time to time
+- Give actionable feedback to people
 - Have conversations with your mentor
 - If you don't trust your management to do right by you, get out of that team
 - It's OK to ask for help.

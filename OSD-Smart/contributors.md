@@ -43,6 +43,7 @@
 - Emily Taylor
 - Fardina Alam
 - Gargi Kulkarni
+- Gargi Sawhney
 - Geetika Katragadda
 - Gorisha Agarwal
 - groana
