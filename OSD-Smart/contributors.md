@@ -4,6 +4,7 @@
 
 - Aarti Bajaj
 - Aastha Rastogi
+- Akhila Ranga
 - Aishwariya
 - Alex Chabot
 - Alex Nazareno

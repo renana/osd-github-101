@@ -33,6 +33,7 @@
 - Be vocal!
 - Believe in yourself
 - Build good rapport with your teammates.
+- Celebrate small achievements.
 - Change is constant. Embrace it!
 - Choose a mentor in a position you aspire to. Have regular discussions and checkins with your mentor.
 - Clearly ask for what you want.
