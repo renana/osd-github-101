@@ -156,6 +156,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Ananya Pal
 - Zhengrui Lu https://github.com/ZhengruiLu
 - Susan J.
 - Sindhu Priyadarshini

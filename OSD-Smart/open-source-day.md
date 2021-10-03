@@ -18,6 +18,7 @@
 - Make sure to ask questions!
 - Connect with mentors 
 - Be curious and love what you do!
+- Good luck!
 - Feel Free to ask doubts. 
 - Ask when you want
 - No fear to make mistake... learn from it!

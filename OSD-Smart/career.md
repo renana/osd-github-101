@@ -122,6 +122,7 @@
 - Don't get dissapointed by failures they are chances for you to improve yourself and grow!
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Don't care what other people say
 - Relax, Take a deep breath. Calm down. you are going to make it. YOU ARE MEANT TO BE SUCCESSFULL.
 - Lift others, as you rise the ranks
 - Dare to think out of the box
