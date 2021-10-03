@@ -104,6 +104,7 @@
 - Track your progress and evaluate periodically
 - Trust your abilities! You are smart.
 - Try new things
+- Keep learning new technology
 - Try to be kind to everyone you work with even if it's just smiling at someone you pass in the hallway.
 - Understand what is the gap between your current level and the next level
 - Use Udemy or codeacademy for git practice. It has good resource.
