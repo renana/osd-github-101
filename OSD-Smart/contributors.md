@@ -56,6 +56,7 @@
 - Harini Vasudevan
 - Isabella Ortiz
 - James Lin
+- Jenny Rowlett
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
 - Jodi
