@@ -18,6 +18,7 @@
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
 - Anna
+- Anne C
 - Anusha Bandekar
 - Arpita
 - Arushi Rawal (https://github.com/arushirawal20 )
