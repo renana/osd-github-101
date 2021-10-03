@@ -79,6 +79,7 @@
 - Lynndell Gardiner
 - MJ
 - Madi Fishtrom
+- Manu Vij
 - Manasvi Goyal
 - Marta
 - Metz
