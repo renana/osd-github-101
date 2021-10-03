@@ -12,6 +12,7 @@
 - Alina (Xi) Li
 - Alissa Zhang
 - Amanda Culley
+- Amanda Rhianne Williamson
 - Amanda Shankle-Knowlton
 - Amit Bhargava
 - Amy G
