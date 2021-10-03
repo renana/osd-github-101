@@ -22,8 +22,8 @@
 - Be curious
 - Be customer focused
 - Be enthusiastic!
+- Be independant
 - Be fearless
-- Be independant 
 - Be open to feedback
 - Be open-minded
 - Be patient and optimistic!
@@ -116,6 +116,7 @@
 - Don't be afraid to step out of your comfort zone
 - Failure is just a data point
 - Work Diligently
+- Be yourself!
 - Be brave
 - Take breaks and take care of your health.
 - Stay in touch with connections on LinkedIn 

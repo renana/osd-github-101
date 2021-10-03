@@ -69,7 +69,7 @@
 - Luísa Souza Moura
 - MJ
 - Madi Fishtrom
-- Manasvi Goyal 
+- Manasvi Goyal
 - Michelle
 - Michelle Zelechoski
 - Minati Alphonso
@@ -101,6 +101,7 @@
 - Sanjna
 - Sarah
 - Sarah Adair
+- Sarah Thomens
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
 - Sejal Goyal
@@ -139,7 +140,7 @@
 - Sudan
 - Apoorvi Dwivedi
 - lakshay-nasa
-- Dinesh kumar 
+- Dinesh kumar
 - Vijaya lakshmi Venkatraman
 - Tracy Cummins
 - Rachel
