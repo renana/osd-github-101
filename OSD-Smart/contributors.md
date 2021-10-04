@@ -48,6 +48,7 @@
 - Gargi Kulkarni
 - Gargi Sawhney
 - Geetika Katragadda
+- Glenda Aranas
 - Giselle Aldridge
 - Gorisha Agarwal
 - groana
