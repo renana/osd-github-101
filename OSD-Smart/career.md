@@ -129,6 +129,7 @@
 - Don't get dissapointed by failures they are chances for you to improve yourself and grow!
 - Don't let work become your whole life
 - Be open-minded about learning from those with less experience than you as well as those with more experience than you
+- Don't act until the last minute
 - Keep a balance 
 - The key is not to prioritize what's on your schedule but to schedule your priorities!
 - Be humble

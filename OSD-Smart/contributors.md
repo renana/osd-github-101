@@ -158,6 +158,7 @@
 - leticia velazquez
 - mahita
 - srashta
+- Stella
 - swetha
 - Shweta Singh
 - Claire (https://github.com/ClaireChiang91/osd-github-101)
