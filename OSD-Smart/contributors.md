@@ -4,13 +4,25 @@
 
 - Aarti Bajaj
 - Aastha Rastogi
+- Alane Marie de Lima
+- Akhila Ranga
+- Aishwariya
+- Alex Chabot
 - Alex Nazareno
 - Alexis Thompson
+- Alina (Xi) Li
 - Alissa Zhang
+- Amanda Culley
+- Amanda Rhianne Williamson
+- Amanda Shankle-Knowlton
+- Amit Bhargava
+- Amy G
 - Amy H
 - Anastasia Sukhorebraya-Beck www.creativeframeworks.cf
 - Andalla
 - Anna
+- Anne C
+- Anusha Bandekar
 - Arpita
 - Arushi Rawal (https://github.com/arushirawal20 )
 - Ava
@@ -20,34 +32,62 @@
 - Brianna Gilchrist
 - Cara Wong
 - Chang Liu, University of Washington
+- Christyn Booth
 - Clovy Meng
 - Corinne Battle
+- Danielle Dorme
 - Delaney!
 - Dhivya
+- Diane
+- Dina Reidel
 - Divya Muruganantham
 - Emelie
 - Emily O'Connell
 - Emily Taylor
+- Fardina Alam
+- Gargi Kulkarni
+- Gargi Sawhney
 - Geetika Katragadda
+- Giselle Aldridge
 - Gorisha Agarwal
+- groana
 - Gunjan Gupta
 - Heghine
+- Ilana-Mahmea Siegel
+- Irene
+- Harini Vasudevan
 - Isabella Ortiz
+- James Lin
+- Jenny Rowlett
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
+- Jodi
+- Jyoti
+- JC S
+- Justine Finley
+- Jyothi Sindhu https://github.com/JyothiSindhuN/
+- Karen Tran
 - Kastur Koul
 - Katherine Brooks
+- Kathy
 - Kayla Foremksi
 - Anjana Anil
 - Keerthi
 - Kelly Fernandez
 - Kiana
 - Kirsty B
+  Ling L
 - Lisa Isaeva
+- Lisa T
+- Liz Hecht
 - Luísa Souza Moura
+- Lynndell Gardiner
 - MJ
 - Madi Fishtrom
-- Manasvi Goyal 
+- Manu Vij
+- Manasvi Goyal
+- Marta
+- Metz
 - Michelle
 - Michelle Zelechoski
 - Minati Alphonso
@@ -56,23 +96,38 @@
 - Musfera Khan
 - MyName
 - Naga Janaki Dwadasi
+- Nancy Frazier
 - Nas H
 - NasmaSim
+- Neelam
 - Neha
 - Nikki Conley
+- Nikki Yang
 - Nine
 - Ning Dong
+- Olivia
 - Parinaz Barakhshan
+- Prabha
+- Prabha Viswanathan
 - Pranjali
+- Regina Robinson
+- Preetika 
+- Pricilla
 - Roxy Williams
+- Rushali Sarkar
 - Ruth Ikegah
 - Sandra Jo
 - Sanjna
 - Sarah
 - Sarah Adair
+- Sarah Thomens
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
+- Selbi
+- Sejal Goyal
+- Shadya Obuya
 - Shahana
+- Shannon Liou
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
@@ -80,6 +135,7 @@
 - Shweta Srinivasan
 - Soumya C
 - Sridevi Jantli
+- Srijani
 - Srishti
 - Sruthi Sathyamoorthy
 - Stephanie Eldridge
@@ -96,6 +152,7 @@
 - Xiaoran
 - Yang
 - Yifan Zhang
+- Youlim Ko
 - Yucheng
 - jingxu016
 - leticia velazquez
@@ -103,11 +160,12 @@
 - srashta
 - Stella
 - swetha
+- Shweta Singh
 - Claire (https://github.com/ClaireChiang91/osd-github-101)
 - Sudan
 - Apoorvi Dwivedi
 - lakshay-nasa
-- Dinesh kumar 
+- Dinesh kumar
 - Vijaya lakshmi Venkatraman
 - Tracy Cummins
 - Rachel
@@ -122,4 +180,24 @@
 - Ankit
 - Divyesh Nandlal Vishwakarma
 - Trang Dang
+- A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+Zihan Wang
+- Kalika Dennis
+- Zi Wang
+- skaladhar
+- Parmita
+- Shreya Shrestha
+- Shaswati Mukherjee
+- Nithya RM
+- Ananya Pal
+- Zhengrui Lu https://github.com/ZhengruiLu
+- Susan J.
+- Sindhu Priyadarshini
+- Nora Gera
+- Raina Huerta
+- Billie Chen
+- Bao Tran Nguyen
+- Dahlia Kadri
+- KirtiShanbhag 
+- [Vidushi Gupta](https://github.com/Vidushi-Gupta)
