@@ -181,6 +181,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+Zihan Wang
 - Kalika Dennis
 - Zi Wang
 - skaladhar
