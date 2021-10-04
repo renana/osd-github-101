@@ -180,6 +180,7 @@
 - Trang Dang
 - A John
 - Akanksha Chaudhari https://github.com/Astroakanksha24
+- Kalika Dennis
 - Zi Wang
 - skaladhar
 - Parmita
