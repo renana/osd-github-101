@@ -16,6 +16,15 @@
 - Talk and connect with people!
 - Have Fun!
 - Make sure to ask questions!
-- Connect with mentors 
+- Connect with mentors
 - Be curious and love what you do!
+- Stay Positive!
+- Be ready to share knowledge
+- Take it slow and learn all you can!
+- Don't get overwhelmed if you don't know everything. Everyone has to start somewhere!
+- Good luck!
+- Feel Free to ask doubts. 
+- Ask when you want
+- No fear to make mistake... learn from it!
+- Relax & Smile / Laugh more 
 - Be in the moment! You can always go back and reference recordings 👩🏻‍💻
