@@ -40,8 +40,8 @@
 - Geetika Katragadda
 - Gorisha Agarwal
 - Gunjan Gupta
-- Heghine
 - Harini Vasudevan
+- Heghine
 - Isabella Ortiz
 - Jenna Whilden (Runchimchar)
 - Jenny Wilson
@@ -113,10 +113,10 @@
 - swetha
 - Taylor
 - Teresa Hubscher-Younger
+- Tiffany
 - Tracy Cummins
 - Trang
 - Trang Dang
-- Tiffany
 - Veena
 - [Vidushi Gupta](https://github.com/Vidushi-Gupta)
 - Vijaya lakshmi Venkatraman
