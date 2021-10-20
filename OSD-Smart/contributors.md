@@ -31,6 +31,7 @@
 - Brenda Kamangara
 - Brianna Gilchrist
 - Cara Wong
+- Carleen Shah
 - Chang Liu, University of Washington
 - Christyn Booth
 - Clovy Meng
