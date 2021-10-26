@@ -146,6 +146,7 @@
 - Enjoy TECH! :)
 - Always tell yourself, "I DESERVE to be at the table", No imposter syndrome!
 - Learn something new every day
+- For the freedom
 
 ## Add your favorite support resources for learning and best practices
 Check this amazing [repo](https://github.com/jwasham/coding-interview-university/) for interview preparation !!
